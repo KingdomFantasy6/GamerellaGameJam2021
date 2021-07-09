@@ -1048,3 +1048,164 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.09-22.16.19:112][665]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GJ_GameMode.GJ_GameMode
 [2021.07.09-22.16.19:112][665]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
 [2021.07.09-22.16.19:112][665]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2021.07.09-22.19.31:492][160]LogSlate: Took 0.011515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.09-22.19.46:195][828]BlueprintLog: New page: Compile Player
+[2021.07.09-22.19.46:242][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.07.09-22.19.47:051][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset" SILENT=true
+[2021.07.09-22.19.47:055][900]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Player3E12189947A9DD87862AA0B783B9BFA9.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset'
+[2021.07.09-22.19.47:064][900]AssetCheck: New page: Asset Save: Player
+[2021.07.09-22.19.47:064][900]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2021.07.09-22.23.31:789][285]LogSlate: Took 0.007669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.07.09-22.28.57:006][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.07.09-22.28.57:008][884]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.036
+[2021.07.09-22.28.57:008][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player] ([1] browsable assets)...
+[2021.07.09-22.28.57:008][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2021.07.09-22.28.57:018][884]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Player_Auto17330C8C844A0A08A26CFB6AF1E24CBA0.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Blueprints/Player_Auto1.uasset'
+[2021.07.09-22.28.57:018][884]LogFileHelpers: Auto-saving content packages took 0.011
+[2021.07.09-22.29.06:009][291]BlueprintLog: New page: Compile Player
+[2021.07.09-22.29.06:049][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.07.09-22.29.07:169][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset" SILENT=true
+[2021.07.09-22.29.07:179][405]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerB5E8DDB5485B08D69C6FD898B180F3FE.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset'
+[2021.07.09-22.29.07:190][405]AssetCheck: New page: Asset Save: Player
+[2021.07.09-22.29.07:190][405]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2021.07.09-22.29.34:696][376]LogSlate: Window 'Player' being destroyed
+[2021.07.09-22.29.38:331][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.07.09-22.29.38:343][788]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel78ADDBB24D87B4A1F64E20BAA9AA6AEC.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.09-22.29.38:453][788]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltData86CACF834B7A4D3FD04EA7B26BA8FA99.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.09-22.29.38:464][788]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.09-22.29.38:464][788]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.09-22.29.38:464][788]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.09-22.29.45:770][641]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.09-22.29.45:786][641]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.09-22.29.49:268][ 59]LogContentBrowser: Attempting asset rename: NewFolder -> Models
+[2021.07.09-22.29.49:268][ 59]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.09-22.29.52:594][445]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.09-22.29.52:618][445]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.09-22.29.55:097][743]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2021.07.09-22.29.55:098][743]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.09-22.40.35:192][286]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.09-22.40.43:416][224]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.09-22.40.43:431][224]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.09-22.40.56:714][818]LogContentBrowser: Attempting asset rename: NewFolder -> UI_Widgets
+[2021.07.09-22.40.56:715][818]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.09-22.40.59:918][187]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.09-22.40.59:932][187]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.09-22.41.05:290][830]LogContentBrowser: Attempting asset rename: NewFolder -> UI_Art
+[2021.07.09-22.41.05:291][830]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.09-22.41.15:703][ 34]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.07.09-22.41.15:712][ 34]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.07.09-22.41.25:139][165]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_PauseMenu
+[2021.07.09-22.41.25:235][165]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.07.09-22.41.26:749][342]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.09-22.42.14:863][753]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.09-22.42.14:921][753]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.07.09-22.42.15:023][753]LogSlate: Took 0.014893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.09-22.42.15:927][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.09-22.42.15:930][844]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenuD375F28548A998BFE26C9ABDA3A6888B.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.09-22.42.16:082][844]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.09-22.42.16:082][844]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.09-22.43.13:206][771]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineFonts: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineFonts' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-22.43.41:591][ 44]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-22.44.13:716][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.07.09-22.44.13:717][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.039
+[2021.07.09-22.44.13:717][676]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI_Widgets/UI_PauseMenu] ([1] browsable assets)...
+[2021.07.09-22.44.13:717][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Widgets/UI_PauseMenu]
+[2021.07.09-22.44.13:721][676]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu_Auto22A4661CE40CF4482580C998203779AFF.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/UI_Widgets/UI_PauseMenu_Auto2.uasset'
+[2021.07.09-22.44.13:721][676]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.07.09-22.47.42:191][387]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.09-22.47.42:226][387]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.07.09-22.47.43:074][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.09-22.47.43:077][462]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu84924FE0438FCC4A0F56C88FB2E503C0.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.09-22.47.43:090][462]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.09-22.47.43:091][462]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.09-22.48.10:650][409]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-22.49.26:092][664]LogSlate: Took 0.016725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.07.09-22.49.45:170][910]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.09-22.49.45:232][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.07.09-22.49.46:271][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.09-22.49.46:275][  9]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenuFE38BD494379E54B6ABC58A368DC941A.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.09-22.49.46:292][  9]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.09-22.49.46:292][  9]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.09-23.38.55:759][447]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-23.39.03:883][382]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-23.39.10:784][178]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-23.39.20:618][329]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-23.39.34:558][945]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-23.39.42:225][808]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-23.39.58:242][302]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-23.40.33:231][428]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.09-23.40.59:548][477]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.07.09-23.41.06:811][286]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.07.09-23.42.06:625][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2021.07.09-23.42.06:627][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.052
+[2021.07.09-23.42.06:627][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI_Widgets/UI_PauseMenu] ([1] browsable assets)...
+[2021.07.09-23.42.06:627][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Widgets/UI_PauseMenu]
+[2021.07.09-23.42.06:635][ 55]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu_Auto35469614C44627CFD571925B25165A4D8.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/UI_Widgets/UI_PauseMenu_Auto3.uasset'
+[2021.07.09-23.42.06:636][ 55]LogFileHelpers: Auto-saving content packages took 0.009
+[2021.07.09-23.43.15:730][179]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.07.09-23.43.26:375][385]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.07.09-23.46.08:270][202]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.09-23.46.08:317][202]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.07.09-23.46.09:424][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.09-23.46.09:434][308]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenuD65ABFDD4EC88ABF8E8AE29CF36843A5.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.09-23.46.09:449][308]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.09-23.46.09:449][308]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.09-23.46.12:304][640]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.09-23.46.12:368][640]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.07.09-23.46.13:375][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.09-23.46.13:384][734]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu346DF15E4E0906D0980F8794411D83E6.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.09-23.46.13:401][734]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.09-23.46.13:402][734]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.09-23.46.20:144][297]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.09-23.46.20:211][297]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.07.09-23.46.21:144][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.09-23.46.21:154][381]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu5D520E41477D982DF187BF9E0E4E5A56.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.09-23.46.21:170][381]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.09-23.46.21:170][381]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.09-23.46.27:141][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.07.09-23.46.28:606][ 38]LogSlate: Window 'Save Content' being destroyed
+[2021.07.09-23.46.28:713][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.09-23.46.28:721][ 38]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenuCFE81A5040AFC58F009B84A57CB92A7E.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.09-23.46.28:735][ 38]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.09-23.46.28:735][ 38]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.09-23.46.34:326][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:326][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/MegascansPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/MegascansPlugin/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:326][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:326][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:326][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:326][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:326][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:326][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:327][643]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.46.34:734][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset" SILENT=true
+[2021.07.09-23.46.34:747][643]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerDB63A6254293D69350CD7EBE5E022042.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset'
+[2021.07.09-23.46.34:787][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.07.09-23.46.34:796][643]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel3625BA5E462DC50781219EB574303A13.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.09-23.46.34:804][643]LogFileHelpers: Saving map 'MainLevel' took 0.056
+[2021.07.09-23.46.34:805][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.09-23.46.34:814][643]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu27AA604D4D93B7738178E2A1E30F1F1A.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.09-23.47.16:331][643]LogSlate: Window 'Submit Files' being destroyed
+[2021.07.09-23.47.16:621][643]LogSourceControl: commit successful: [ProjectBranch c227cb8] Beginnings of Pause Functionality. Also FOLDERS
+[2021.07.09-23.47.16:731][643]SourceControl: [ProjectBranch c227cb8] Beginnings of Pause Functionality. Also FOLDERS
+[2021.07.09-23.47.16:731][643]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2021.07.09-23.47.16:731][643]SourceControl:  rewrite GameJamProject/Content/Blueprints/Player.uasset (86%)
+[2021.07.09-23.47.16:731][643]SourceControl:  create mode 100644 GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset
+[2021.07.09-23.47.16:737][643]SourceControl: Commited [ProjectBranch c227cb8] Beginnings of Pause Functionality. Also FOLDERS.
+[2021.07.09-23.47.16:783][644]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.09-23.47.16:783][644]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.09-23.47.16:783][644]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.09-23.47.16:784][644]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
