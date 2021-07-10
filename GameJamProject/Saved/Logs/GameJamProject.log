@@ -1209,3 +1209,663 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.09-23.47.16:783][644]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
 [2021.07.09-23.47.16:783][644]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
 [2021.07.09-23.47.16:784][644]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2021.07.09-23.48.17:711][275]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.09-23.48.43:738][106]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.09-23.48.43:743][106]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.09-23.48.54:332][299]LogSlate: Window 'Source Control Login' being destroyed
+[2021.07.09-23.50.37:391][811]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.09-23.53.36:466][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.09-23.53.37:520][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.09-23.53.40:766][430]Cmd: DELETE
+[2021.07.09-23.53.40:766][430]Cmd: ACTOR DELETE
+[2021.07.09-23.53.40:773][430]LogEditorActor: Deleted Actor: Character
+[2021.07.09-23.53.40:825][430]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.07.09-23.53.40:829][430]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.07.09-23.56.34:207][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.07.09-23.56.34:218][356]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto4F61C3D84494BBE9CF2677E94968029B5.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto4.umap'
+[2021.07.09-23.56.34:219][356]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.050
+[2021.07.09-23.56.34:219][356]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2021.07.09-23.58.23:771][273]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.09-23.58.23:812][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.07.09-23.58.25:612][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.09-23.58.25:619][473]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu8ED7F65243327098677B0DA0BCE2CF78.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.09-23.58.25:635][473]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.09-23.58.25:635][473]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.10-00.00.29:984][823]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.10-00.00.30:055][823]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2021.07.10-00.00.30:807][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.10-00.00.30:817][897]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu4BBD3E6E47823233517C0CBDBA6D022B.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.10-00.00.30:833][897]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.10-00.00.30:833][897]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.10-00.00.32:629][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.07.10-00.00.32:637][ 86]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevelBC313D314544C312F14598990F0BD8C0.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-00.00.32:749][ 86]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltData135719CB409225CB708FB1A5E032A265.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-00.00.32:761][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-00.00.32:761][ 86]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-00.00.32:761][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-00.31.07:946][477]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/olivi/Desktop/2D Art Stuff/black circle.png)
+[2021.07.10-00.31.08:431][477]LogTexture: Display: Building textures: black_circle (AutoDXT, 9920X7016)
+[2021.07.10-00.31.12:511][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.07.10-00.31.12:514][822]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.042
+[2021.07.10-00.31.12:514][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/black_circle] ([1] browsable assets)...
+[2021.07.10-00.31.12:517][822]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/black_circle.black_circle]
+[2021.07.10-00.31.12:517][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/black_circle]
+[2021.07.10-00.31.13:744][822]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/black_circle_Auto5F929DC354D18B998BDB3F485E459BC97.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/black_circle_Auto5.uasset'
+[2021.07.10-00.31.13:745][822]LogFileHelpers: Auto-saving content packages took 1.231
+[2021.07.10-00.31.18:186][335]LogActorFactory: Actor Factory created Plane
+[2021.07.10-00.31.18:720][396]LogActorFactory: Actor Factory created Plane
+[2021.07.10-00.31.25:861][232]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.31.25:902][232]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.07.10-00.31.25:902][232]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.07.10-00.31.25:902][232]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.07.10-00.31.25:902][232]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.10-00.31.25:902][232]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.07.10-00.31.25:902][232]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.07.10-00.31.35:303][208]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/black_circle_Mat.black_circle_Mat
+[2021.07.10-00.31.35:310][208]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.31.35:649][208]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.31.35:663][208]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.07.10-00.31.35:669][208]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.10-00.31.35:669][208]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.10-00.31.35:669][208]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.10-00.31.35:669][208]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.10-00.31.35:669][208]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.10-00.31.35:670][208]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.10-00.31.35:670][208]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.10-00.31.35:670][208]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.10-00.31.37:103][208]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.07.10-00.31.37:103][208]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.10-00.31.37:103][208]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.07.10-00.31.37:103][208]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.07.10-00.31.37:103][208]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.07.10-00.31.37:514][209]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.07.10-00.31.37:514][209]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.07.10-00.31.37:514][209]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.10-00.31.37:514][209]MaterialEditorStats: Texture samplers: 3/16
+[2021.07.10-00.31.37:514][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.07.10-00.31.37:514][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.10-00.32.00:591][648]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.32.00:603][648]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.07.10-00.32.00:608][648]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.10-00.32.00:608][648]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.10-00.32.00:608][648]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.10-00.32.00:608][648]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.10-00.32.00:608][648]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.10-00.32.00:608][648]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.10-00.32.00:608][648]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.10-00.32.00:608][648]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.10-00.32.01:681][716]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.07.10-00.32.01:681][716]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.10-00.32.01:885][733]LogMaterialEditor: Saving and Compiling material black_circle_Mat
+[2021.07.10-00.32.02:837][733]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.07.10-00.32.02:837][733]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.10-00.32.02:837][733]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.07.10-00.32.02:848][733]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.32.02:898][733]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.10-00.32.02:898][733]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.10-00.32.02:898][733]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.10-00.32.02:898][733]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.10-00.32.02:898][733]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.10-00.32.02:898][733]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.10-00.32.02:898][733]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.10-00.32.02:898][733]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.10-00.32.02:905][733]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.32.02:995][733]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2021.07.10-00.32.03:014][733]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.10-00.32.03:585][733]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.07.10-00.32.03:585][733]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.07.10-00.32.04:144][733]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.07.10-00.32.04:144][733]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.07.10-00.32.04:144][733]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.07.10-00.32.04:144][733]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.07.10-00.32.04:144][733]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.07.10-00.32.04:144][733]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.10-00.32.04:144][733]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.07.10-00.32.04:144][733]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.07.10-00.32.04:223][733]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.07.10-00.32.04:228][733]TextureStreamingBuild: Display: Compiling optional shaders took 1.228 seconds.
+[2021.07.10-00.32.04:298][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.07.10-00.32.05:103][733]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.07.10-00.32.05:527][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/black_circle_Mat" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/black_circle_Mat.uasset" SILENT=true
+[2021.07.10-00.32.05:533][733]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/black_circle_Mat218F5DE1468D2F6E26D3E19E55BBD85C.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/black_circle_Mat.uasset'
+[2021.07.10-00.32.05:724][733]AssetCheck: New page: Asset Save: black_circle_Mat
+[2021.07.10-00.32.05:724][733]LogContentValidation: Display: Validating Material /Game/black_circle_Mat.black_circle_Mat
+[2021.07.10-00.32.05:725][733]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.07.10-00.32.05:725][733]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.07.10-00.32.05:725][733]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.10-00.32.05:725][733]MaterialEditorStats: Texture samplers: 4/16
+[2021.07.10-00.32.05:725][733]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.07.10-00.32.05:725][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.10-00.32.06:199][786]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.32.06:223][787]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.10-00.32.06:223][787]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.10-00.32.06:223][787]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.10-00.32.06:223][787]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.10-00.32.06:223][787]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.10-00.32.06:223][787]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.10-00.32.06:223][787]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.10-00.32.06:223][787]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.10-00.32.06:956][844]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.07.10-00.32.07:070][851]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.32.07:168][851]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.07.10-00.32.07:171][851]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.32.07:207][851]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.32.07:238][851]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.07.10-00.32.07:336][856]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.07.10-00.32.07:423][862]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.07.10-00.32.07:435][863]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.07.10-00.32.07:484][866]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.07.10-00.32.07:484][866]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.07.10-00.32.07:699][882]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.07.10-00.32.08:133][914]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.07.10-00.32.08:186][918]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.07.10-00.32.08:350][931]LogMaterialEditor: Saving and Compiling material black_circle_Mat
+[2021.07.10-00.32.09:828][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.07.10-00.32.09:829][931]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.07.10-00.32.09:862][931]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.32.10:031][931]LogMaterial: Display: Missing cached shader map for material black_circle_Mat, compiling. 
+[2021.07.10-00.32.10:103][931]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.07.10-00.32.10:165][931]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2021.07.10-00.32.10:166][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.07.10-00.32.10:178][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.10-00.32.10:750][931]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2021.07.10-00.32.10:750][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2021.07.10-00.32.10:750][931]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.07.10-00.32.10:750][931]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 47
+[2021.07.10-00.32.10:750][931]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.07.10-00.32.10:750][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2021.07.10-00.32.11:308][931]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2021.07.10-00.32.11:308][931]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2021.07.10-00.32.11:308][931]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 42
+[2021.07.10-00.32.11:308][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2021.07.10-00.32.11:308][931]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2021.07.10-00.32.11:866][931]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2021.07.10-00.32.11:866][931]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 38
+[2021.07.10-00.32.11:866][931]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2021.07.10-00.32.11:866][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 36
+[2021.07.10-00.32.11:866][931]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2021.07.10-00.32.11:866][931]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2021.07.10-00.32.12:424][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2021.07.10-00.32.12:424][931]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2021.07.10-00.32.12:983][931]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2021.07.10-00.32.12:983][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.07.10-00.32.12:983][931]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2021.07.10-00.32.12:983][931]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.07.10-00.32.12:983][931]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.07.10-00.32.12:983][931]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.07.10-00.32.12:983][931]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.07.10-00.32.12:983][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.07.10-00.32.13:182][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.07.10-00.32.13:182][931]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.07.10-00.32.13:187][931]TextureStreamingBuild: Display: Compiling optional shaders took 3.020 seconds.
+[2021.07.10-00.32.13:250][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.07.10-00.32.14:053][931]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.07.10-00.32.15:168][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.07.10-00.32.15:168][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.07.10-00.32.15:168][931]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.07.10-00.32.15:727][931]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.07.10-00.32.15:727][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.07.10-00.32.16:285][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.07.10-00.32.16:751][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/black_circle_Mat" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/black_circle_Mat.uasset" SILENT=true
+[2021.07.10-00.32.16:757][931]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/black_circle_Mat9414E18B41CCC65682A4678AF34D32BF.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/black_circle_Mat.uasset'
+[2021.07.10-00.32.16:791][931]AssetCheck: New page: Asset Save: black_circle_Mat
+[2021.07.10-00.32.16:791][931]LogContentValidation: Display: Validating Material /Game/black_circle_Mat.black_circle_Mat
+[2021.07.10-00.32.16:792][931]MaterialEditorStats: Base pass shader: 76 instructions
+[2021.07.10-00.32.16:792][931]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 103 instructions
+[2021.07.10-00.32.16:792][931]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2021.07.10-00.32.16:792][931]MaterialEditorStats: Texture samplers: 4/16
+[2021.07.10-00.32.16:792][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.07.10-00.32.16:792][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.10-00.32.21:163][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.10-00.32.28:551][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.07.10-00.32.29:809][122]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.10-00.32.29:985][122]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-00.32.29:985][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-00.32.30:005][122]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/black_circle_Mat.black_circle_Mat
+[2021.07.10-00.32.30:988][122]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.07.10-00.32.31:035][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.07.10-00.32.31:076][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.07.10-00.32.31:243][122]SourceControl: rm 'GameJamProject/Content/black_circle_Mat.uasset'
+[2021.07.10-00.32.32:871][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.07.10-00.32.34:295][304]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.10-00.32.34:419][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.07.10-00.32.37:678][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.07.10-00.32.45:607][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.07.10-00.32.48:371][962]Cmd: TRANSACTION UNDO
+[2021.07.10-00.32.48:371][962]LogEditorTransaction: Undo Scale Actors
+[2021.07.10-00.41.07:732][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.07.10-00.41.08:731][  2]Cmd: DELETE
+[2021.07.10-00.41.08:731][  2]Cmd: ACTOR DELETE
+[2021.07.10-00.41.08:733][  2]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.10-00.41.08:765][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.07.10-00.41.08:771][  2]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.07.10-00.41.13:550][521]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.10-00.41.14:071][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.07.10-00.41.14:080][563]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto680417C77404F49F1639435B3ED8DBD6B.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap'
+[2021.07.10-00.41.14:081][563]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.042
+[2021.07.10-00.41.14:081][563]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2021.07.10-00.41.38:024][582]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.10-00.41.38:032][582]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.10-00.42.08:408][974]LogActorFactory: Actor Factory created Cube
+[2021.07.10-00.42.09:364][ 74]LogActorFactory: Actor Factory created Cube
+[2021.07.10-00.42.12:748][436]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.10-00.42.21:524][289]LogContentBrowser: Deferred new asset file creation: M_Metal_Rust_Inst
+[2021.07.10-00.42.21:561][289]LogContentBrowser: Creating deferred item: M_Metal_Rust_Inst
+[2021.07.10-00.42.23:505][435]LogContentBrowser: Attempting asset rename: M_Metal_Rust_Inst -> M_Metal_Rust_Inst
+[2021.07.10-00.42.23:609][435]LogContentBrowser: End creating deferred item M_Metal_Rust_Inst
+[2021.07.10-00.42.23:701][440]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/StarterContent/Materials/M_Metal_Rust_Inst.M_Metal_Rust_Inst
+[2021.07.10-00.42.23:834][440]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2021.07.10-00.42.33:407][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.07.10-00.42.58:412][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.07.10-00.42.59:765][137]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.10-00.42.59:866][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.07.10-00.42.59:885][137]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.10-00.43.00:447][137]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.07.10-00.43.00:447][137]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.07.10-00.43.00:483][137]TextureStreamingBuild: Display: Compiling optional shaders took 0.597 seconds.
+[2021.07.10-00.43.00:526][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.07.10-00.43.00:540][137]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-00.43.00:540][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-00.43.00:559][137]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/StarterContent/Materials/M_Metal_Rust_Inst.M_Metal_Rust_Inst
+[2021.07.10-00.43.01:104][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.07.10-00.43.02:885][336]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.10-00.43.03:367][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.07.10-00.43.04:092][472]Cmd: DELETE
+[2021.07.10-00.43.04:092][472]Cmd: ACTOR DELETE
+[2021.07.10-00.43.04:094][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.10-00.43.04:135][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.07.10-00.43.04:137][472]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.07.10-00.43.07:117][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.10-00.43.13:697][540]LogActorFactory: Actor Factory created Cube
+[2021.07.10-00.43.14:307][594]LogActorFactory: Actor Factory created Cube
+[2021.07.10-00.43.37:672][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.07.10-00.43.39:479][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.07.10-00.44.13:691][906]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.10-00.44.54:845][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.07.10-00.45.26:974][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.10-00.45.45:269][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.07.10-00.46.14:798][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.07.10-00.46.36:655][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.10-00.47.08:410][311]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.10-00.47.20:330][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.07.10-00.48.25:359][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2021.07.10-00.48.31:168][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.10-00.48.34:004][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2021.07.10-00.49.06:551][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.10-00.49.17:652][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2021.07.10-00.51.09:089][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.10-00.51.09:668][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2021.07.10-00.51.25:349][565]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.10-00.51.40:399][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2021.07.10-00.52.17:969][710]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.07.10-00.52.17:999][710]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto7FEA1DE2040A16803E6E92CBF89EDC752.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap'
+[2021.07.10-00.52.18:001][710]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.078
+[2021.07.10-00.52.18:001][710]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2021.07.10-00.52.25:925][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2021.07.10-00.53.21:057][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2021.07.10-00.54.35:616][753]Cmd: TRANSACTION UNDO
+[2021.07.10-00.54.35:616][753]LogEditorTransaction: Undo Move Actors
+[2021.07.10-00.55.01:468][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2021.07.10-00.55.02:031][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2021.07.10-00.55.03:968][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2021.07.10-00.55.28:110][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.07.10-00.55.48:494][328]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.10-00.56.10:734][899]Cmd: TRANSACTION UNDO
+[2021.07.10-00.56.10:734][899]LogEditorTransaction: Undo Move Actors
+[2021.07.10-00.56.11:124][910]Cmd: TRANSACTION UNDO
+[2021.07.10-00.56.11:124][910]LogEditorTransaction: Undo Rotate Actors
+[2021.07.10-00.56.51:883][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.10-00.56.53:369][544]LogActorFactory: Actor Factory created Cone
+[2021.07.10-00.56.54:149][614]LogActorFactory: Actor Factory created Cone
+[2021.07.10-00.56.56:158][838]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.10-00.56.58:793][118]LogActorFactory: Actor Factory created Cube
+[2021.07.10-00.56.59:271][160]LogActorFactory: Actor Factory created Cube
+[2021.07.10-00.57.02:122][487]Cmd: DELETE
+[2021.07.10-00.57.02:122][487]Cmd: ACTOR DELETE
+[2021.07.10-00.57.02:125][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.10-00.57.02:171][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.07.10-00.57.02:180][487]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2021.07.10-00.57.03:104][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.07.10-00.57.03:726][666]Cmd: DELETE
+[2021.07.10-00.57.03:726][666]Cmd: ACTOR DELETE
+[2021.07.10-00.57.03:728][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.10-00.57.03:768][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.10-00.57.03:769][666]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2021.07.10-00.57.05:499][858]LogActorFactory: Actor Factory created Plane
+[2021.07.10-00.57.05:981][910]LogActorFactory: Actor Factory created Plane
+[2021.07.10-00.57.16:220][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.07.10-00.57.19:326][450]Cmd: DELETE
+[2021.07.10-00.57.19:326][450]Cmd: ACTOR DELETE
+[2021.07.10-00.57.19:328][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.10-00.57.19:369][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.07.10-00.57.19:374][450]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.07.10-00.57.40:058][793]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.10-00.58.10:731][275]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.07.10-00.58.10:760][275]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevelC93C8F644D0E3D1A55C07F8EFF810374.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-00.58.10:875][275]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltData3F00AF13491532C43D17F8A92C4B5165.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-00.58.10:890][275]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-00.58.10:890][275]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-00.58.10:890][275]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-00.58.33:229][806]Cmd: DELETE
+[2021.07.10-00.58.33:230][806]Cmd: ACTOR DELETE
+[2021.07.10-00.58.33:232][806]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.07.10-00.58.33:276][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.07.10-00.58.33:282][806]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.07.10-00.59.19:861][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2021.07.10-00.59.32:835][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.10-00.59.53:382][921]MapCheck: New page: Map Check
+[2021.07.10-00.59.53:401][921]LightingResults: New page: Lighting Build - Jul 9, 2021, 2:59:53 PM
+[2021.07.10-00.59.53:569][921]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.10-00.59.53:864][921]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.10-00.59.53:879][921]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.10-00.59.54:905][921]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.10-00.59.54:905][921]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16376
+[2021.07.10-01.00.06:341][921]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.07.10-01.00.06:341][921]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.10-01.00.06:341][921]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.10-01.00.06:341][921]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.10-01.00.06:341][921]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.10-01.00.06:341][921]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.10-01.00.06:506][921]LogEditorBuildUtils: Build time 0:13
+[2021.07.10-01.00.06:517][921]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2021.07.10-01.00.06:520][921]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.07.10-01.00.06:520][921]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.07.10-01.00.06:520][921]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2021.07.10-01.00.06:531][921]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.07.10-01.00.06:531][921]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.07.10-01.00.07:239][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.07.10-01.00.46:613][932]Job is a success!
+[2021.07.10-01.00.47:149][933]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.058s
+[2021.07.10-01.00.47:149][933]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.07.10-01.00.47:149][933]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2021.07.10-01.00.47:149][933]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.10-01.00.47:149][933]LogVolumetricLightmapImport:          0: 18.6% covering 100.0% of volume
+[2021.07.10-01.00.47:149][933]LogVolumetricLightmapImport:          1: 37.2% covering 3.1% of volume
+[2021.07.10-01.00.47:149][933]LogVolumetricLightmapImport:          2: 44.2% covering 0.1% of volume
+[2021.07.10-01.00.47:149][933]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.10-01.00.47:149][933]LogVolumetricLightmapImport:          MainLevel 			 43 bricks 	 100.0% (Persistent Level)
+[2021.07.10-01.00.47:513][933]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.07.10-01.00.47:513][933]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.07.10-01.00.47:513][933]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.07.10-01.00.47:513][933]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.07.10-01.00.47:795][933]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2021.07.10-01.00.47:795][933]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2021.07.10-01.00.47:795][933]Lightmass on DESKTOP-QTCQCQV: 39.2 sec total, 228 ms importing, 30 ms setup, 27.7 sec photons, 11.1 sec processing, 0 ms extra exporting [69/69 mappings]. Threads: 2:03 min total, 1:24 min processing.
+[2021.07.10-01.00.47:806][933]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 69 meshes in 2 LightmapResourceClusters (34.5 Meshes per cluster).
+[2021.07.10-01.00.47:853][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.07.10-01.00.47:870][933]LogStaticLightingSystem: Illumination: 54.1 sec (331 ms encoding lightmaps, 194 ms encoding shadowmaps)
+[2021.07.10-01.00.47:870][933]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.07.10-01.00.47:870][933]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.07.10-01.00.48:368][933]DumpUnbuiltLightIteractions
+[2021.07.10-01.00.48:368][933]Lights with unbuilt interactions: 0
+[2021.07.10-01.00.48:368][933]
+[2021.07.10-01.00.48:368][933]Primitives with unbuilt interactions: 0
+[2021.07.10-01.00.48:414][933]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.10-01.00.48:446][934]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.10-01.00.48:446][934]MapCheck: New page: MainLevel - Jul 9, 2021, 3:00:48 PM
+[2021.07.10-01.00.48:447][934]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.778ms to complete.
+[2021.07.10-01.00.53:464][949]LogSlate: Window 'Message Log' being destroyed
+[2021.07.10-01.00.53:469][949]LogSlate: Window 'Message Log' being destroyed
+[2021.07.10-01.01.44:829][908]MapCheck: New page: Map Check
+[2021.07.10-01.01.44:843][908]LightingResults: New page: Lighting Build - Jul 9, 2021, 3:01:44 PM
+[2021.07.10-01.01.44:850][908]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.10-01.01.44:853][908]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.10-01.01.44:853][908]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.10-01.01.44:853][908]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.10-01.01.44:853][908]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16376
+[2021.07.10-01.03.13:665][908]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.10-01.03.13:665][908]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.10-01.03.13:665][908]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.10-01.03.13:665][908]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.10-01.03.13:665][908]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.10-01.03.13:747][908]LogEditorBuildUtils: Build time 1:28
+[2021.07.10-01.03.13:830][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.07.10-01.03.39:841][986]Job is a success!
+[2021.07.10-01.03.40:493][987]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.184s
+[2021.07.10-01.03.40:493][987]LogVolumetricLightmapImport:      Indirection Texture 128x128x16 = 1.0Mb
+[2021.07.10-01.03.40:493][987]LogVolumetricLightmapImport:      BrickData (all levels) 4.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.07.10-01.03.40:493][987]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.10-01.03.40:493][987]LogVolumetricLightmapImport:          0: 7.7% covering 100.0% of volume
+[2021.07.10-01.03.40:493][987]LogVolumetricLightmapImport:          1: 15.3% covering 3.1% of volume
+[2021.07.10-01.03.40:493][987]LogVolumetricLightmapImport:          2: 77.0% covering 0.2% of volume
+[2021.07.10-01.03.40:493][987]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.10-01.03.40:493][987]LogVolumetricLightmapImport:          MainLevel 			 834 bricks 	 100.0% (Persistent Level)
+[2021.07.10-01.03.40:838][987]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2021.07.10-01.03.40:838][987]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2021.07.10-01.03.40:838][987]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.07.10-01.03.40:838][987]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.07.10-01.03.41:041][987]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2021.07.10-01.03.41:041][987]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2021.07.10-01.03.41:041][987]Lightmass on DESKTOP-QTCQCQV: 26.7 sec total, 139 ms importing, 21 ms setup, 15.0 sec photons, 11.5 sec processing, 0 ms extra exporting [69/69 mappings]. Threads: 2:06 min total, 1:17 min processing.
+[2021.07.10-01.03.41:044][987]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 69 meshes in 2 LightmapResourceClusters (34.5 Meshes per cluster).
+[2021.07.10-01.03.41:111][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.07.10-01.03.41:122][987]LogStaticLightingSystem: Illumination: 1:55 min (283 ms encoding lightmaps, 180 ms encoding shadowmaps)
+[2021.07.10-01.03.41:122][987]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.07.10-01.03.41:122][987]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.07.10-01.03.41:684][987]DumpUnbuiltLightIteractions
+[2021.07.10-01.03.41:684][987]Lights with unbuilt interactions: 0
+[2021.07.10-01.03.41:684][987]
+[2021.07.10-01.03.41:684][987]Primitives with unbuilt interactions: 0
+[2021.07.10-01.03.41:752][987]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.10-01.03.41:787][988]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.10-01.03.41:787][988]MapCheck: New page: MainLevel - Jul 9, 2021, 3:03:41 PM
+[2021.07.10-01.03.41:788][988]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.92ms to complete.
+[2021.07.10-01.04.07:564][184]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.07.10-01.04.19:264][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2021.07.10-01.04.20:061][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.07.10-01.04.25:653][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2021.07.10-01.04.26:749][427]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.07.10-01.05.20:444][682]MapCheck: New page: Map Check
+[2021.07.10-01.05.20:460][682]LightingResults: New page: Lighting Build - Jul 9, 2021, 3:05:20 PM
+[2021.07.10-01.05.20:468][682]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.10-01.05.20:470][682]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.10-01.05.20:471][682]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.10-01.05.20:471][682]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.10-01.05.20:472][682]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16376
+[2021.07.10-01.06.49:176][682]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.10-01.06.49:176][682]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.10-01.06.49:176][682]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.10-01.06.49:176][682]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.10-01.06.49:176][682]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.10-01.06.49:263][682]LogEditorBuildUtils: Build time 1:28
+[2021.07.10-01.06.49:342][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.07.10-01.07.13:658][755]Job is a success!
+[2021.07.10-01.07.14:295][756]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.170s
+[2021.07.10-01.07.14:295][756]LogVolumetricLightmapImport:      Indirection Texture 128x128x16 = 1.0Mb
+[2021.07.10-01.07.14:295][756]LogVolumetricLightmapImport:      BrickData (all levels) 4.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.07.10-01.07.14:295][756]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.10-01.07.14:295][756]LogVolumetricLightmapImport:          0: 7.7% covering 100.0% of volume
+[2021.07.10-01.07.14:295][756]LogVolumetricLightmapImport:          1: 15.3% covering 3.1% of volume
+[2021.07.10-01.07.14:295][756]LogVolumetricLightmapImport:          2: 77.0% covering 0.2% of volume
+[2021.07.10-01.07.14:295][756]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.10-01.07.14:295][756]LogVolumetricLightmapImport:          MainLevel 			 835 bricks 	 100.0% (Persistent Level)
+[2021.07.10-01.07.14:656][756]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.07.10-01.07.14:657][756]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.07.10-01.07.14:657][756]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.07.10-01.07.14:657][756]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.07.10-01.07.14:859][756]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X128)
+[2021.07.10-01.07.14:859][756]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X512)
+[2021.07.10-01.07.14:859][756]Lightmass on DESKTOP-QTCQCQV: 25.0 sec total, 130 ms importing, 23 ms setup, 13.7 sec photons, 11.0 sec processing, 0 ms extra exporting [69/69 mappings]. Threads: 2:01 min total, 1:13 min processing.
+[2021.07.10-01.07.14:861][756]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 69 meshes in 2 LightmapResourceClusters (34.5 Meshes per cluster).
+[2021.07.10-01.07.14:926][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.07.10-01.07.14:939][756]LogStaticLightingSystem: Illumination: 1:54 min (302 ms encoding lightmaps, 173 ms encoding shadowmaps)
+[2021.07.10-01.07.14:939][756]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.07.10-01.07.14:939][756]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.07.10-01.07.15:195][756]DumpUnbuiltLightIteractions
+[2021.07.10-01.07.15:195][756]Lights with unbuilt interactions: 0
+[2021.07.10-01.07.15:195][756]
+[2021.07.10-01.07.15:195][756]Primitives with unbuilt interactions: 0
+[2021.07.10-01.07.15:259][756]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.10-01.07.15:285][757]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.10-01.07.15:286][757]MapCheck: New page: MainLevel - Jul 9, 2021, 3:07:15 PM
+[2021.07.10-01.07.15:286][757]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.588ms to complete.
+[2021.07.10-01.07.18:346][771]LogEditorViewport: Clicking Background
+[2021.07.10-01.07.48:103][226]MapCheck: New page: Map Check
+[2021.07.10-01.07.48:123][226]LightingResults: New page: Lighting Build - Jul 9, 2021, 3:07:48 PM
+[2021.07.10-01.07.48:134][226]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.10-01.07.48:136][226]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.10-01.07.48:137][226]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.10-01.07.48:137][226]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.10-01.07.48:137][226]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16376
+[2021.07.10-01.09.16:886][226]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.10-01.09.16:886][226]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.10-01.09.16:886][226]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.10-01.09.16:886][226]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.10-01.09.16:886][226]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.10-01.09.16:968][226]LogEditorBuildUtils: Build time 1:28
+[2021.07.10-01.09.17:046][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.07.10-01.09.44:788][918]Job is a success!
+[2021.07.10-01.09.45:110][919]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.179s
+[2021.07.10-01.09.45:110][919]LogVolumetricLightmapImport:      Indirection Texture 128x128x16 = 1.0Mb
+[2021.07.10-01.09.45:110][919]LogVolumetricLightmapImport:      BrickData (all levels) 4.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.07.10-01.09.45:110][919]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.10-01.09.45:110][919]LogVolumetricLightmapImport:          0: 7.7% covering 100.0% of volume
+[2021.07.10-01.09.45:110][919]LogVolumetricLightmapImport:          1: 15.3% covering 3.1% of volume
+[2021.07.10-01.09.45:110][919]LogVolumetricLightmapImport:          2: 77.0% covering 0.2% of volume
+[2021.07.10-01.09.45:110][919]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.10-01.09.45:110][919]LogVolumetricLightmapImport:          MainLevel 			 835 bricks 	 100.0% (Persistent Level)
+[2021.07.10-01.09.45:433][919]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2021.07.10-01.09.45:433][919]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2021.07.10-01.09.45:434][919]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.07.10-01.09.45:434][919]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.07.10-01.09.45:625][919]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X128)
+[2021.07.10-01.09.45:625][919]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X512)
+[2021.07.10-01.09.45:625][919]Lightmass on DESKTOP-QTCQCQV: 28.1 sec total, 148 ms importing, 21 ms setup, 16.7 sec photons, 11.1 sec processing, 0 ms extra exporting [69/69 mappings]. Threads: 2:02 min total, 1:18 min processing.
+[2021.07.10-01.09.45:625][919]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 69 meshes in 2 LightmapResourceClusters (34.5 Meshes per cluster).
+[2021.07.10-01.09.45:695][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.07.10-01.09.45:715][919]LogStaticLightingSystem: Illumination: 1:57 min (283 ms encoding lightmaps, 144 ms encoding shadowmaps)
+[2021.07.10-01.09.45:715][919]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.07.10-01.09.45:715][919]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.07.10-01.09.45:900][919]DumpUnbuiltLightIteractions
+[2021.07.10-01.09.45:900][919]Lights with unbuilt interactions: 0
+[2021.07.10-01.09.45:900][919]
+[2021.07.10-01.09.45:900][919]Primitives with unbuilt interactions: 0
+[2021.07.10-01.09.45:956][919]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.10-01.09.45:966][919]LogTexture: Display: Building textures: NewReflectionComponentTextureB32D552246FB25CB87591B8470027FCA (BGRA8, 128X128)
+[2021.07.10-01.09.46:007][920]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.10-01.09.46:007][920]MapCheck: New page: MainLevel - Jul 9, 2021, 3:09:46 PM
+[2021.07.10-01.09.46:008][920]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.617ms to complete.
+[2021.07.10-01.12.25:146][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.10-01.12.25:158][405]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu30072E044978B146B8E09C9792B37E24.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.10-01.12.25:177][405]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.10-01.12.25:177][405]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.10-01.12.25:842][482]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.10-01.12.25:916][482]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.07.10-01.13.32:105][529]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.10-01.13.32:150][529]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.07.10-01.13.32:745][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.10-01.13.32:760][581]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu02483F564C448A16BC59BBB6FAAAD9CC.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.10-01.13.32:775][581]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.10-01.13.32:775][581]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.10-01.13.38:317][191]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.07.10-01.13.38:330][191]LogContentBrowser: Creating deferred item: NewWorld
+[2021.07.10-01.13.42:933][743]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenu
+[2021.07.10-01.13.43:036][743]LogContentBrowser: End creating deferred item NewWorld
+[2021.07.10-01.13.44:935][955]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2021.07.10-01.13.46:369][955]LogSlate: Window 'Save Content' being destroyed
+[2021.07.10-01.13.46:549][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.10-01.13.46:575][955]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel830E1870439E87A3D927A0869D29C207.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-01.13.46:582][955]LogFileHelpers: Saving map 'MainLevel' took 0.071
+[2021.07.10-01.13.46:668][955]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltData4F7F03E449C18B0FDA4FB2A288EA5E9D.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-01.13.46:753][955]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltData8429BC534437E5BE92D1EDA402045201.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-01.13.46:799][955]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.07.10-01.13.46:801][955]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainMenuD8C7935948E536198121A9A78C452E86.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainMenu.umap'
+[2021.07.10-01.13.46:972][955]LogFileHelpers: Saving map 'MainMenu' took 0.216
+[2021.07.10-01.13.46:986][955]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-01.13.46:986][955]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-01.13.46:986][955]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-01.13.46:986][955]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2021.07.10-01.15.07:029][158]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.10-01.15.07:085][158]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2021.07.10-01.15.07:727][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.10-01.15.07:747][216]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu8BA4FE3F4A41B8850D0BDDBAE543A8A8.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.10-01.15.07:766][216]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.10-01.15.07:766][216]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.10-01.15.37:301][606]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.10-01.15.37:305][606]LogBlueprint: Error: [AssetLog] C:\Users\olivi\Documents\GitHub\GamerellaGameJam2021\GameJamProject\Content\UI_Widgets\UI_PauseMenu.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.07.10-01.15.37:376][606]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2021.07.10-01.15.40:131][925]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.10-01.15.58:692][263]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.07.10-01.15.58:706][263]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.07.10-01.16.07:159][276]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_OptionsMenu
+[2021.07.10-01.16.07:253][276]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.07.10-01.16.08:981][471]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.07.10-01.16.10:204][471]LogSlate: Window 'Save Content' being destroyed
+[2021.07.10-01.16.10:328][471]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_OptionsMenu735C78254C1BB4E3301425B35697B8BA.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_OptionsMenu.uasset'
+[2021.07.10-01.16.10:494][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.10-01.16.10:518][471]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenuE7FAE25A4DBBF4F30A325FA2BAD02911.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.10-01.16.10:533][471]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-01.16.10:534][471]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.10-01.16.10:534][471]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_OptionsMenu.UI_OptionsMenu
+[2021.07.10-01.16.13:629][818]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.10-01.16.18:410][362]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.10-01.16.18:484][362]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2021.07.10-01.16.19:474][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.10-01.16.19:495][459]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu185CAAED482155AE64955EA8689B4A1D.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.10-01.16.19:510][459]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.10-01.16.19:510][459]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.10-01.20.49:219][580]BlueprintLog: New page: Compile UI_PauseMenu
+[2021.07.10-01.20.49:296][580]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.07.10-01.20.49:950][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.10-01.20.49:976][637]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu572C096D458D168B7B90FEA1EE8B6489.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.10-01.20.49:992][637]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.10-01.20.49:993][637]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.10-01.22.38:376][980]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.10-01.25.57:900][858]BlueprintLog: New page: Compile Player
+[2021.07.10-01.25.57:980][858]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2021.07.10-01.25.58:790][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset" SILENT=true
+[2021.07.10-01.25.58:811][930]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Player398E96AE4726E554A4CAB695DCABB8C2.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset'
+[2021.07.10-01.25.58:827][930]AssetCheck: New page: Asset Save: Player
+[2021.07.10-01.25.58:827][930]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2021.07.10-01.27.19:240][539]BlueprintLog: New page: Compile Player
+[2021.07.10-01.27.19:316][539]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2021.07.10-01.27.20:966][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset" SILENT=true
+[2021.07.10-01.27.20:988][711]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerAC59C28640AFE191B6B365B78D955069.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset'
+[2021.07.10-01.27.21:002][711]AssetCheck: New page: Asset Save: Player
+[2021.07.10-01.27.21:002][711]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2021.07.10-01.27.37:032][175]BlueprintLog: New page: Compile Player
+[2021.07.10-01.27.37:114][175]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2021.07.10-01.27.39:004][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset" SILENT=true
+[2021.07.10-01.27.39:026][369]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerEEB155944934598C8E56AEA0EFA74C1B.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset'
+[2021.07.10-01.27.39:042][369]AssetCheck: New page: Asset Save: Player
+[2021.07.10-01.27.39:043][369]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2021.07.10-01.28.34:069][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.07.10-01.28.34:070][221]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.039
+[2021.07.10-01.28.34:070][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player] ([1] browsable assets)...
+[2021.07.10-01.28.34:070][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2021.07.10-01.28.34:093][221]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Player_Auto8FCCE59754C5BC6CB73D568B43EB856CB.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Blueprints/Player_Auto8.uasset'
+[2021.07.10-01.28.34:094][221]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.07.10-01.30.09:647][585]BlueprintLog: New page: Compile Player
+[2021.07.10-01.30.09:725][585]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2021.07.10-01.30.10:782][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset" SILENT=true
+[2021.07.10-01.30.10:803][670]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Player84D678D141DC88D8296DE0A862FA917C.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset'
+[2021.07.10-01.30.10:823][670]AssetCheck: New page: Asset Save: Player
+[2021.07.10-01.30.10:823][670]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2021.07.10-01.30.49:897][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset" SILENT=true
+[2021.07.10-01.30.49:919][669]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerFA3CE94E429222361A9739A9F0BA44DD.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/Player.uasset'
+[2021.07.10-01.30.49:937][669]AssetCheck: New page: Asset Save: Player
+[2021.07.10-01.30.49:937][669]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2021.07.10-01.31.09:049][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.07.10-01.31.12:475][891]LogSlate: Window 'Save Content' being destroyed
+[2021.07.10-01.31.13:892][ 50]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-01.31.13:892][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-01.31.16:347][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Widgets/UI_PauseMenu" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset" SILENT=true
+[2021.07.10-01.31.16:367][304]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/UI_PauseMenu30A505A247E7D92FCF19E2A2FB55F7E8.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/UI_Widgets/UI_PauseMenu.uasset'
+[2021.07.10-01.31.16:387][304]AssetCheck: New page: Asset Save: UI_PauseMenu
+[2021.07.10-01.31.16:387][304]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_Widgets/UI_PauseMenu.UI_PauseMenu
+[2021.07.10-01.31.17:100][385]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-01.31.17:100][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-01.31.17:111][385]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-01.31.17:111][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
