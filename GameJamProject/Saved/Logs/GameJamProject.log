@@ -1318,3 +1318,805 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.10-18.06.02:104][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Materials/M_StatueGlass]
 [2021.07.10-18.06.02:111][549]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/M_StatueGlass_Auto5A0467DC749219D4E11510D8A046CB819.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/StarterContent/Props/Materials/M_StatueGlass_Auto5.uasset'
 [2021.07.10-18.06.02:111][549]LogFileHelpers: Auto-saving content packages took 0.033
+[2021.07.10-18.06.59:643][721]LogLinker: Warning: Failed to load '/Game/Levels/MainMenu': Can't find file.
+[2021.07.10-18.06.59:644][721]LogLinker: Warning: Failed to load '/Game/Levels/MainMenu': Can't find file.
+[2021.07.10-18.06.59:644][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Levels/MainMenu.MainMenu'
+[2021.07.10-18.06.59:645][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2021.07.10-18.06.59:645][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2021.07.10-18.06.59:645][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400'
+[2021.07.10-18.06.59:646][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Pillar_50x500': Can't find file.
+[2021.07.10-18.06.59:646][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Pillar_50x500': Can't find file.
+[2021.07.10-18.06.59:646][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500'
+[2021.07.10-18.06.59:647][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/SM_AssetPlatform': Can't find file.
+[2021.07.10-18.06.59:648][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/SM_AssetPlatform': Can't find file.
+[2021.07.10-18.06.59:648][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform'
+[2021.07.10-18.06.59:648][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_400x200': Can't find file.
+[2021.07.10-18.06.59:649][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_400x200': Can't find file.
+[2021.07.10-18.06.59:649][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200'
+[2021.07.10-18.06.59:649][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_400x300': Can't find file.
+[2021.07.10-18.06.59:650][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_400x300': Can't find file.
+[2021.07.10-18.06.59:650][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300'
+[2021.07.10-18.06.59:650][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_400x400': Can't find file.
+[2021.07.10-18.06.59:651][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_400x400': Can't find file.
+[2021.07.10-18.06.59:651][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400'
+[2021.07.10-18.06.59:651][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2021.07.10-18.06.59:651][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2021.07.10-18.06.59:651][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500'
+[2021.07.10-18.06.59:652][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x300': Can't find file.
+[2021.07.10-18.06.59:652][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x300': Can't find file.
+[2021.07.10-18.06.59:652][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300'
+[2021.07.10-18.06.59:653][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x400': Can't find file.
+[2021.07.10-18.06.59:653][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x400': Can't find file.
+[2021.07.10-18.06.59:653][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400'
+[2021.07.10-18.06.59:653][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x300': Can't find file.
+[2021.07.10-18.06.59:654][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x300': Can't find file.
+[2021.07.10-18.06.59:654][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300'
+[2021.07.10-18.06.59:654][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x400': Can't find file.
+[2021.07.10-18.06.59:655][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x400': Can't find file.
+[2021.07.10-18.06.59:655][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400'
+[2021.07.10-18.06.59:655][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Collapse01': Can't find file.
+[2021.07.10-18.06.59:655][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Collapse01': Can't find file.
+[2021.07.10-18.06.59:655][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Collapse01.Collapse01'
+[2021.07.10-18.06.59:660][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Collapse02': Can't find file.
+[2021.07.10-18.06.59:661][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Collapse02': Can't find file.
+[2021.07.10-18.06.59:661][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Collapse02.Collapse02'
+[2021.07.10-18.06.59:661][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Collapse_Cue': Can't find file.
+[2021.07.10-18.06.59:661][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Collapse_Cue': Can't find file.
+[2021.07.10-18.06.59:661][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue'
+[2021.07.10-18.06.59:661][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
+[2021.07.10-18.06.59:662][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
+[2021.07.10-18.06.59:662][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion01.Explosion01'
+[2021.07.10-18.06.59:662][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
+[2021.07.10-18.06.59:662][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
+[2021.07.10-18.06.59:663][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion02.Explosion02'
+[2021.07.10-18.06.59:663][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion_Cue': Can't find file.
+[2021.07.10-18.06.59:663][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion_Cue': Can't find file.
+[2021.07.10-18.06.59:663][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue'
+[2021.07.10-18.06.59:664][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Fire01': Can't find file.
+[2021.07.10-18.06.59:664][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Fire01': Can't find file.
+[2021.07.10-18.06.59:664][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Fire01.Fire01'
+[2021.07.10-18.06.59:664][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Fire01_Cue': Can't find file.
+[2021.07.10-18.06.59:664][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Fire01_Cue': Can't find file.
+[2021.07.10-18.06.59:664][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Fire01_Cue.Fire01_Cue'
+[2021.07.10-18.06.59:665][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Fire_Sparks01': Can't find file.
+[2021.07.10-18.06.59:665][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Fire_Sparks01': Can't find file.
+[2021.07.10-18.06.59:665][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01'
+[2021.07.10-18.06.59:665][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Fire_Sparks01_Cue': Can't find file.
+[2021.07.10-18.06.59:665][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Fire_Sparks01_Cue': Can't find file.
+[2021.07.10-18.06.59:665][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue'
+[2021.07.10-18.06.59:666][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Light01': Can't find file.
+[2021.07.10-18.06.59:666][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Light01': Can't find file.
+[2021.07.10-18.06.59:666][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Light01.Light01'
+[2021.07.10-18.06.59:666][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Light01_Cue': Can't find file.
+[2021.07.10-18.06.59:666][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Light01_Cue': Can't find file.
+[2021.07.10-18.06.59:666][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Light01_Cue.Light01_Cue'
+[2021.07.10-18.06.59:666][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Light02': Can't find file.
+[2021.07.10-18.06.59:667][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Light02': Can't find file.
+[2021.07.10-18.06.59:667][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Light02.Light02'
+[2021.07.10-18.06.59:667][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Light02_Cue': Can't find file.
+[2021.07.10-18.06.59:667][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Light02_Cue': Can't find file.
+[2021.07.10-18.06.59:667][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Light02_Cue.Light02_Cue'
+[2021.07.10-18.06.59:667][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Smoke01': Can't find file.
+[2021.07.10-18.06.59:667][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Smoke01': Can't find file.
+[2021.07.10-18.06.59:667][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Smoke01.Smoke01'
+[2021.07.10-18.06.59:668][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Smoke01_Cue': Can't find file.
+[2021.07.10-18.06.59:668][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Smoke01_Cue': Can't find file.
+[2021.07.10-18.06.59:668][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Smoke01_Cue.Smoke01_Cue'
+[2021.07.10-18.06.59:668][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Background_Cue': Can't find file.
+[2021.07.10-18.06.59:668][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Background_Cue': Can't find file.
+[2021.07.10-18.06.59:668][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue'
+[2021.07.10-18.06.59:669][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Birds01': Can't find file.
+[2021.07.10-18.06.59:669][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Birds01': Can't find file.
+[2021.07.10-18.06.59:669][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01'
+[2021.07.10-18.06.59:669][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Music01': Can't find file.
+[2021.07.10-18.06.59:669][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Music01': Can't find file.
+[2021.07.10-18.06.59:669][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Starter_Music01.Starter_Music01'
+[2021.07.10-18.06.59:670][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Music_Cue': Can't find file.
+[2021.07.10-18.06.59:670][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Music_Cue': Can't find file.
+[2021.07.10-18.06.59:670][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Starter_Music_Cue.Starter_Music_Cue'
+[2021.07.10-18.06.59:670][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Wind05': Can't find file.
+[2021.07.10-18.06.59:670][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Wind05': Can't find file.
+[2021.07.10-18.06.59:670][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05'
+[2021.07.10-18.06.59:670][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Wind06': Can't find file.
+[2021.07.10-18.06.59:671][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Starter_Wind06': Can't find file.
+[2021.07.10-18.06.59:671][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06'
+[2021.07.10-18.06.59:671][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Steam01': Can't find file.
+[2021.07.10-18.06.59:671][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Steam01': Can't find file.
+[2021.07.10-18.06.59:671][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Steam01.Steam01'
+[2021.07.10-18.06.59:671][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Steam01_Cue': Can't find file.
+[2021.07.10-18.06.59:671][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Steam01_Cue': Can't find file.
+[2021.07.10-18.06.59:671][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Steam01_Cue.Steam01_Cue'
+[2021.07.10-18.06.59:672][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/FogBrightnessLUT': Can't find file.
+[2021.07.10-18.06.59:672][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/FogBrightnessLUT': Can't find file.
+[2021.07.10-18.06.59:672][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Assets/FogBrightnessLUT.FogBrightnessLUT'
+[2021.07.10-18.06.59:676][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows': Can't find file.
+[2021.07.10-18.06.59:676][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows': Can't find file.
+[2021.07.10-18.06.59:676][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows.M_LightStage_Arrows'
+[2021.07.10-18.06.59:676][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black': Can't find file.
+[2021.07.10-18.06.59:676][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black': Can't find file.
+[2021.07.10-18.06.59:676][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.M_LightStage_Skybox_Black'
+[2021.07.10-18.06.59:677][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI': Can't find file.
+[2021.07.10-18.06.59:677][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI': Can't find file.
+[2021.07.10-18.06.59:677][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.M_LightStage_Skybox_HDRI'
+[2021.07.10-18.06.59:677][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master': Can't find file.
+[2021.07.10-18.06.59:677][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master': Can't find file.
+[2021.07.10-18.06.59:677][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master'
+[2021.07.10-18.06.59:677][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/SM_Arrows': Can't find file.
+[2021.07.10-18.06.59:677][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/SM_Arrows': Can't find file.
+[2021.07.10-18.06.59:678][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows'
+[2021.07.10-18.06.59:678][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/Skybox': Can't find file.
+[2021.07.10-18.06.59:678][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/Skybox': Can't find file.
+[2021.07.10-18.06.59:678][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Assets/Skybox.Skybox'
+[2021.07.10-18.06.59:678][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/SunlightColorLUT': Can't find file.
+[2021.07.10-18.06.59:678][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Assets/SunlightColorLUT': Can't find file.
+[2021.07.10-18.06.59:678][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Assets/SunlightColorLUT.SunlightColorLUT'
+[2021.07.10-18.06.59:679][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/BP_LightStudio': Can't find file.
+[2021.07.10-18.06.59:679][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/BP_LightStudio': Can't find file.
+[2021.07.10-18.06.59:679][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio'
+[2021.07.10-18.06.59:679][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_CeilingLight': Can't find file.
+[2021.07.10-18.06.59:679][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_CeilingLight': Can't find file.
+[2021.07.10-18.06.59:679][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight'
+[2021.07.10-18.06.59:679][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion': Can't find file.
+[2021.07.10-18.06.59:679][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion': Can't find file.
+[2021.07.10-18.06.59:679][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion'
+[2021.07.10-18.06.59:680][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire': Can't find file.
+[2021.07.10-18.06.59:680][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire': Can't find file.
+[2021.07.10-18.06.59:680][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire'
+[2021.07.10-18.06.59:680][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke': Can't find file.
+[2021.07.10-18.06.59:681][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke': Can't find file.
+[2021.07.10-18.06.59:681][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke'
+[2021.07.10-18.06.59:681][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks': Can't find file.
+[2021.07.10-18.06.59:681][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks': Can't find file.
+[2021.07.10-18.06.59:681][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks'
+[2021.07.10-18.06.59:681][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam': Can't find file.
+[2021.07.10-18.06.59:681][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam': Can't find file.
+[2021.07.10-18.06.59:681][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam'
+[2021.07.10-18.06.59:681][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_WallSconce': Can't find file.
+[2021.07.10-18.06.59:681][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Blueprints/Blueprint_WallSconce': Can't find file.
+[2021.07.10-18.06.59:681][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce'
+[2021.07.10-18.06.59:681][721]LogLinker: Warning: Failed to load '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight': Can't find file.
+[2021.07.10-18.06.59:681][721]LogLinker: Warning: Failed to load '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight': Can't find file.
+[2021.07.10-18.06.59:681][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight'
+[2021.07.10-18.06.59:688][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting': Can't find file.
+[2021.07.10-18.06.59:688][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting': Can't find file.
+[2021.07.10-18.06.59:688][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting'
+[2021.07.10-18.06.59:692][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default': Can't find file.
+[2021.07.10-18.06.59:692][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default': Can't find file.
+[2021.07.10-18.06.59:692][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Minimal_Default.Minimal_Default'
+[2021.07.10-18.06.59:692][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/StarterMap': Can't find file.
+[2021.07.10-18.06.59:692][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/StarterMap': Can't find file.
+[2021.07.10-18.06.59:692][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/StarterMap.StarterMap'
+[2021.07.10-18.06.59:692][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_AssetPlatform': Can't find file.
+[2021.07.10-18.06.59:692][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_AssetPlatform': Can't find file.
+[2021.07.10-18.06.59:692][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_AssetPlatform.M_AssetPlatform'
+[2021.07.10-18.06.59:693][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Basic_Floor': Can't find file.
+[2021.07.10-18.06.59:693][721]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Basic_Floor': Can't find file.
+[2021.07.10-18.06.59:693][721]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor'
+[2021.07.10-18.06.59:961][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Clay_Beveled': Can't find file.
+[2021.07.10-18.06.59:961][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Clay_Beveled': Can't find file.
+[2021.07.10-18.06.59:961][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Brick_Clay_Beveled.M_Brick_Clay_Beveled'
+[2021.07.10-18.06.59:961][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Clay_New': Can't find file.
+[2021.07.10-18.06.59:961][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Clay_New': Can't find file.
+[2021.07.10-18.06.59:961][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Brick_Clay_New.M_Brick_Clay_New'
+[2021.07.10-18.06.59:962][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Clay_Old': Can't find file.
+[2021.07.10-18.06.59:962][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Clay_Old': Can't find file.
+[2021.07.10-18.06.59:962][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old'
+[2021.07.10-18.06.59:962][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Cut_Stone': Can't find file.
+[2021.07.10-18.06.59:962][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Cut_Stone': Can't find file.
+[2021.07.10-18.06.59:962][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Brick_Cut_Stone.M_Brick_Cut_Stone'
+[2021.07.10-18.06.59:962][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Hewn_Stone': Can't find file.
+[2021.07.10-18.06.59:962][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Brick_Hewn_Stone': Can't find file.
+[2021.07.10-18.06.59:962][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Brick_Hewn_Stone.M_Brick_Hewn_Stone'
+[2021.07.10-18.06.59:963][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Ceramic_Tile_Checker': Can't find file.
+[2021.07.10-18.06.59:963][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Ceramic_Tile_Checker': Can't find file.
+[2021.07.10-18.06.59:963][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker'
+[2021.07.10-18.06.59:963][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_CobbleStone_Pebble': Can't find file.
+[2021.07.10-18.06.59:963][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_CobbleStone_Pebble': Can't find file.
+[2021.07.10-18.06.59:963][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_CobbleStone_Pebble.M_CobbleStone_Pebble'
+[2021.07.10-18.06.59:963][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_CobbleStone_Rough': Can't find file.
+[2021.07.10-18.06.59:963][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_CobbleStone_Rough': Can't find file.
+[2021.07.10-18.06.59:963][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_CobbleStone_Rough.M_CobbleStone_Rough'
+[2021.07.10-18.06.59:964][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_CobbleStone_Smooth': Can't find file.
+[2021.07.10-18.06.59:964][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_CobbleStone_Smooth': Can't find file.
+[2021.07.10-18.06.59:964][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth'
+[2021.07.10-18.06.59:964][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_ColorGrid_LowSpec': Can't find file.
+[2021.07.10-18.06.59:964][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_ColorGrid_LowSpec': Can't find file.
+[2021.07.10-18.06.59:964][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_ColorGrid_LowSpec.M_ColorGrid_LowSpec'
+[2021.07.10-18.06.59:964][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Concrete_Grime': Can't find file.
+[2021.07.10-18.06.59:964][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Concrete_Grime': Can't find file.
+[2021.07.10-18.06.59:964][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Concrete_Grime.M_Concrete_Grime'
+[2021.07.10-18.06.59:965][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Concrete_Panels': Can't find file.
+[2021.07.10-18.06.59:965][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Concrete_Panels': Can't find file.
+[2021.07.10-18.06.59:965][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Concrete_Panels.M_Concrete_Panels'
+[2021.07.10-18.06.59:965][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Concrete_Poured': Can't find file.
+[2021.07.10-18.06.59:965][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Concrete_Poured': Can't find file.
+[2021.07.10-18.06.59:965][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Concrete_Poured.M_Concrete_Poured'
+[2021.07.10-18.06.59:965][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Concrete_Tiles': Can't find file.
+[2021.07.10-18.06.59:965][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Concrete_Tiles': Can't find file.
+[2021.07.10-18.06.59:965][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles'
+[2021.07.10-18.06.59:966][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Glass': Can't find file.
+[2021.07.10-18.06.59:966][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Glass': Can't find file.
+[2021.07.10-18.06.59:966][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Glass.M_Glass'
+[2021.07.10-18.06.59:966][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Ground_Grass': Can't find file.
+[2021.07.10-18.06.59:966][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Ground_Grass': Can't find file.
+[2021.07.10-18.06.59:966][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass'
+[2021.07.10-18.06.59:966][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Ground_Gravel': Can't find file.
+[2021.07.10-18.06.59:966][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Ground_Gravel': Can't find file.
+[2021.07.10-18.06.59:966][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel'
+[2021.07.10-18.06.59:967][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Ground_Moss': Can't find file.
+[2021.07.10-18.06.59:967][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Ground_Moss': Can't find file.
+[2021.07.10-18.06.59:967][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Ground_Moss.M_Ground_Moss'
+[2021.07.10-18.06.59:967][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Brushed_Nickel': Can't find file.
+[2021.07.10-18.06.59:967][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Brushed_Nickel': Can't find file.
+[2021.07.10-18.06.59:967][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Metal_Brushed_Nickel.M_Metal_Brushed_Nickel'
+[2021.07.10-18.06.59:967][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Burnished_Steel': Can't find file.
+[2021.07.10-18.06.59:967][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Burnished_Steel': Can't find file.
+[2021.07.10-18.06.59:967][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel'
+[2021.07.10-18.06.59:968][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Chrome': Can't find file.
+[2021.07.10-18.06.59:968][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Chrome': Can't find file.
+[2021.07.10-18.06.59:968][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome'
+[2021.07.10-18.06.59:968][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Copper': Can't find file.
+[2021.07.10-18.06.59:968][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Copper': Can't find file.
+[2021.07.10-18.06.59:968][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Metal_Copper.M_Metal_Copper'
+[2021.07.10-18.06.59:968][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Gold': Can't find file.
+[2021.07.10-18.06.59:968][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Gold': Can't find file.
+[2021.07.10-18.06.59:968][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold'
+[2021.07.10-18.06.59:969][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Rust': Can't find file.
+[2021.07.10-18.06.59:969][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Rust': Can't find file.
+[2021.07.10-18.06.59:969][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Metal_Rust.M_Metal_Rust'
+[2021.07.10-18.06.59:969][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Steel': Can't find file.
+[2021.07.10-18.06.59:969][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Metal_Steel': Can't find file.
+[2021.07.10-18.06.59:969][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel'
+[2021.07.10-18.06.59:969][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Rock_Basalt': Can't find file.
+[2021.07.10-18.06.59:970][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Rock_Basalt': Can't find file.
+[2021.07.10-18.06.59:970][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt'
+[2021.07.10-18.06.59:970][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Rock_Marble_Polished': Can't find file.
+[2021.07.10-18.06.59:970][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Rock_Marble_Polished': Can't find file.
+[2021.07.10-18.06.59:970][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished'
+[2021.07.10-18.06.59:970][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Rock_Sandstone': Can't find file.
+[2021.07.10-18.06.59:970][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Rock_Sandstone': Can't find file.
+[2021.07.10-18.06.59:970][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone'
+[2021.07.10-18.06.59:970][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Rock_Slate': Can't find file.
+[2021.07.10-18.06.59:971][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Rock_Slate': Can't find file.
+[2021.07.10-18.06.59:971][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Rock_Slate.M_Rock_Slate'
+[2021.07.10-18.06.59:971][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Tech_Checker_Dot': Can't find file.
+[2021.07.10-18.06.59:971][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Tech_Checker_Dot': Can't find file.
+[2021.07.10-18.06.59:971][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot'
+[2021.07.10-18.06.59:971][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Tech_Hex_Tile': Can't find file.
+[2021.07.10-18.06.59:971][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Tech_Hex_Tile': Can't find file.
+[2021.07.10-18.06.59:971][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile'
+[2021.07.10-18.06.59:971][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse': Can't find file.
+[2021.07.10-18.06.59:972][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse': Can't find file.
+[2021.07.10-18.06.59:972][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse'
+[2021.07.10-18.06.59:972][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Tech_Panel': Can't find file.
+[2021.07.10-18.06.59:972][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Tech_Panel': Can't find file.
+[2021.07.10-18.06.59:972][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Tech_Panel.M_Tech_Panel'
+[2021.07.10-18.06.59:972][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Water_Lake': Can't find file.
+[2021.07.10-18.06.59:972][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Water_Lake': Can't find file.
+[2021.07.10-18.06.59:972][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake'
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.07.10-18.06.59:973][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean'
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished': Can't find file.
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished': Can't find file.
+[2021.07.10-18.06.59:973][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished'
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn': Can't find file.
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn': Can't find file.
+[2021.07.10-18.06.59:973][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn'
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Oak': Can't find file.
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Oak': Can't find file.
+[2021.07.10-18.06.59:973][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak'
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Pine': Can't find file.
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Pine': Can't find file.
+[2021.07.10-18.06.59:973][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine'
+[2021.07.10-18.06.59:973][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Walnut': Can't find file.
+[2021.07.10-18.06.59:975][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Materials/M_Wood_Walnut': Can't find file.
+[2021.07.10-18.06.59:975][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut'
+[2021.07.10-18.06.59:975][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Burst': Can't find file.
+[2021.07.10-18.06.59:975][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Burst': Can't find file.
+[2021.07.10-18.06.59:975][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/M_Burst.M_Burst'
+[2021.07.10-18.06.59:975][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Dust_Particle': Can't find file.
+[2021.07.10-18.06.59:975][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Dust_Particle': Can't find file.
+[2021.07.10-18.06.59:975][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle'
+[2021.07.10-18.06.59:976][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Fire_SubUV': Can't find file.
+[2021.07.10-18.06.59:976][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Fire_SubUV': Can't find file.
+[2021.07.10-18.06.59:976][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV'
+[2021.07.10-18.06.59:976][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Heat_Distortion': Can't find file.
+[2021.07.10-18.06.59:976][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Heat_Distortion': Can't find file.
+[2021.07.10-18.06.59:976][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/M_Heat_Distortion.M_Heat_Distortion'
+[2021.07.10-18.06.59:976][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Radial_Gradient': Can't find file.
+[2021.07.10-18.06.59:977][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Radial_Gradient': Can't find file.
+[2021.07.10-18.06.59:977][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient'
+[2021.07.10-18.06.59:977][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Spark': Can't find file.
+[2021.07.10-18.06.59:977][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_Spark': Can't find file.
+[2021.07.10-18.06.59:977][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/M_Spark.M_Spark'
+[2021.07.10-18.06.59:977][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_explosion_subUV': Can't find file.
+[2021.07.10-18.06.59:977][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_explosion_subUV': Can't find file.
+[2021.07.10-18.06.59:977][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV'
+[2021.07.10-18.06.59:978][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_radial_ramp': Can't find file.
+[2021.07.10-18.06.59:978][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_radial_ramp': Can't find file.
+[2021.07.10-18.06.59:978][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/M_radial_ramp.M_radial_ramp'
+[2021.07.10-18.06.59:978][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_smoke_subUV': Can't find file.
+[2021.07.10-18.06.59:978][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/M_smoke_subUV': Can't find file.
+[2021.07.10-18.06.59:978][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV'
+[2021.07.10-18.06.59:978][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/m_flare_01': Can't find file.
+[2021.07.10-18.06.59:979][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/Materials/m_flare_01': Can't find file.
+[2021.07.10-18.06.59:979][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/Materials/m_flare_01.m_flare_01'
+[2021.07.10-18.06.59:979][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Ambient_Dust': Can't find file.
+[2021.07.10-18.06.59:979][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Ambient_Dust': Can't find file.
+[2021.07.10-18.06.59:979][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust'
+[2021.07.10-18.06.59:979][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Explosion': Can't find file.
+[2021.07.10-18.06.59:979][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Explosion': Can't find file.
+[2021.07.10-18.06.59:979][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/P_Explosion.P_Explosion'
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Fire': Can't find file.
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Fire': Can't find file.
+[2021.07.10-18.06.59:980][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/P_Fire.P_Fire'
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Smoke': Can't find file.
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Smoke': Can't find file.
+[2021.07.10-18.06.59:980][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/P_Smoke.P_Smoke'
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Sparks': Can't find file.
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Sparks': Can't find file.
+[2021.07.10-18.06.59:980][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/P_Sparks.P_Sparks'
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Steam_Lit': Can't find file.
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Particles/P_Steam_Lit': Can't find file.
+[2021.07.10-18.06.59:980][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Particles/P_Steam_Lit.P_Steam_Lit'
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/MaterialSphere': Can't find file.
+[2021.07.10-18.06.59:980][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/MaterialSphere': Can't find file.
+[2021.07.10-18.06.59:980][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/MaterialSphere.MaterialSphere'
+[2021.07.10-18.06.59:987][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2021.07.10-18.06.59:987][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2021.07.10-18.06.59:987][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_Bush.M_Bush'
+[2021.07.10-18.06.59:988][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Chair': Can't find file.
+[2021.07.10-18.06.59:988][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Chair': Can't find file.
+[2021.07.10-18.06.59:988][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_Chair.M_Chair'
+[2021.07.10-18.06.59:988][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Door': Can't find file.
+[2021.07.10-18.06.59:988][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Door': Can't find file.
+[2021.07.10-18.06.59:988][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_Door.M_Door'
+[2021.07.10-18.06.59:988][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Frame': Can't find file.
+[2021.07.10-18.06.59:988][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Frame': Can't find file.
+[2021.07.10-18.06.59:988][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_Frame.M_Frame'
+[2021.07.10-18.06.59:989][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Lamp': Can't find file.
+[2021.07.10-18.06.59:989][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Lamp': Can't find file.
+[2021.07.10-18.06.59:989][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_Lamp.M_Lamp'
+[2021.07.10-18.06.59:989][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere': Can't find file.
+[2021.07.10-18.06.59:989][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere': Can't find file.
+[2021.07.10-18.06.59:989][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_MaterialSphere.M_MaterialSphere'
+[2021.07.10-18.06.59:989][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain': Can't find file.
+[2021.07.10-18.06.59:989][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain': Can't find file.
+[2021.07.10-18.06.59:989][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_MaterialSphere_Plain.M_MaterialSphere_Plain'
+[2021.07.10-18.06.59:990][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2021.07.10-18.06.59:990][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2021.07.10-18.06.59:990][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_Rock.M_Rock'
+[2021.07.10-18.06.59:990][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Shelf': Can't find file.
+[2021.07.10-18.06.59:990][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Shelf': Can't find file.
+[2021.07.10-18.06.59:990][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_Shelf.M_Shelf'
+[2021.07.10-18.06.59:990][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Statue': Can't find file.
+[2021.07.10-18.06.59:990][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_Statue': Can't find file.
+[2021.07.10-18.06.59:990][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_Statue.M_Statue'
+[2021.07.10-18.06.59:991][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_TableRound': Can't find file.
+[2021.07.10-18.06.59:991][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/Materials/M_TableRound': Can't find file.
+[2021.07.10-18.06.59:991][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound'
+[2021.07.10-18.06.59:991][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Bush': Can't find file.
+[2021.07.10-18.06.59:991][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Bush': Can't find file.
+[2021.07.10-18.06.59:991][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Bush.SM_Bush'
+[2021.07.10-18.06.59:991][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Chair': Can't find file.
+[2021.07.10-18.06.59:991][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Chair': Can't find file.
+[2021.07.10-18.06.59:991][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Chair.SM_Chair'
+[2021.07.10-18.06.59:992][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_CornerFrame': Can't find file.
+[2021.07.10-18.06.59:992][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_CornerFrame': Can't find file.
+[2021.07.10-18.06.59:992][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame'
+[2021.07.10-18.06.59:992][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Couch': Can't find file.
+[2021.07.10-18.06.59:992][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Couch': Can't find file.
+[2021.07.10-18.06.59:992][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Couch.SM_Couch'
+[2021.07.10-18.06.59:992][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Door': Can't find file.
+[2021.07.10-18.06.59:992][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Door': Can't find file.
+[2021.07.10-18.06.59:992][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Door.SM_Door'
+[2021.07.10-18.06.59:993][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_DoorFrame': Can't find file.
+[2021.07.10-18.06.59:993][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_DoorFrame': Can't find file.
+[2021.07.10-18.06.59:993][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame'
+[2021.07.10-18.06.59:993][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_GlassWindow': Can't find file.
+[2021.07.10-18.06.59:993][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_GlassWindow': Can't find file.
+[2021.07.10-18.06.59:993][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow'
+[2021.07.10-18.06.59:993][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Lamp_Ceiling': Can't find file.
+[2021.07.10-18.06.59:993][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Lamp_Ceiling': Can't find file.
+[2021.07.10-18.06.59:993][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling'
+[2021.07.10-18.06.59:994][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Lamp_Wall': Can't find file.
+[2021.07.10-18.06.59:994][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Lamp_Wall': Can't find file.
+[2021.07.10-18.06.59:994][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall'
+[2021.07.10-18.06.59:994][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_MatPreviewMesh_02': Can't find file.
+[2021.07.10-18.06.59:994][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_MatPreviewMesh_02': Can't find file.
+[2021.07.10-18.06.59:994][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02'
+[2021.07.10-18.06.59:994][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_PillarFrame': Can't find file.
+[2021.07.10-18.06.59:994][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_PillarFrame': Can't find file.
+[2021.07.10-18.06.59:994][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame'
+[2021.07.10-18.06.59:994][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_PillarFrame300': Can't find file.
+[2021.07.10-18.06.59:995][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_PillarFrame300': Can't find file.
+[2021.07.10-18.06.59:995][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300'
+[2021.07.10-18.06.59:995][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Rock': Can't find file.
+[2021.07.10-18.06.59:995][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Rock': Can't find file.
+[2021.07.10-18.06.59:995][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Rock.SM_Rock'
+[2021.07.10-18.06.59:995][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Shelf': Can't find file.
+[2021.07.10-18.06.59:995][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Shelf': Can't find file.
+[2021.07.10-18.06.59:995][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Shelf.SM_Shelf'
+[2021.07.10-18.06.59:995][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Stairs': Can't find file.
+[2021.07.10-18.06.59:996][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Stairs': Can't find file.
+[2021.07.10-18.06.59:996][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Stairs.SM_Stairs'
+[2021.07.10-18.06.59:996][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Statue': Can't find file.
+[2021.07.10-18.06.59:996][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_Statue': Can't find file.
+[2021.07.10-18.06.59:996][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_Statue.SM_Statue'
+[2021.07.10-18.06.59:996][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_TableRound': Can't find file.
+[2021.07.10-18.06.59:996][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_TableRound': Can't find file.
+[2021.07.10-18.06.59:996][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_TableRound.SM_TableRound'
+[2021.07.10-18.06.59:996][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_WindowFrame': Can't find file.
+[2021.07.10-18.06.59:997][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Props/SM_WindowFrame': Can't find file.
+[2021.07.10-18.06.59:997][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame'
+[2021.07.10-18.06.59:997][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Cone': Can't find file.
+[2021.07.10-18.06.59:997][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Cone': Can't find file.
+[2021.07.10-18.06.59:997][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone'
+[2021.07.10-18.06.59:997][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2021.07.10-18.06.59:997][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Cube': Can't find file.
+[2021.07.10-18.06.59:997][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube'
+[2021.07.10-18.06.59:997][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Cylinder': Can't find file.
+[2021.07.10-18.06.59:998][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Cylinder': Can't find file.
+[2021.07.10-18.06.59:998][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder'
+[2021.07.10-18.06.59:998][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_NarrowCapsule': Can't find file.
+[2021.07.10-18.06.59:998][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_NarrowCapsule': Can't find file.
+[2021.07.10-18.06.59:998][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule'
+[2021.07.10-18.06.59:998][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Pipe': Can't find file.
+[2021.07.10-18.06.59:998][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Pipe': Can't find file.
+[2021.07.10-18.06.59:998][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe'
+[2021.07.10-18.06.59:999][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Pipe_180': Can't find file.
+[2021.07.10-18.06.59:999][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Pipe_180': Can't find file.
+[2021.07.10-18.06.59:999][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180'
+[2021.07.10-18.06.59:999][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Pipe_90': Can't find file.
+[2021.07.10-18.06.59:999][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Pipe_90': Can't find file.
+[2021.07.10-18.06.59:999][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Pipe_90.Shape_Pipe_90'
+[2021.07.10-18.06.59:999][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Plane': Can't find file.
+[2021.07.10-18.06.59:999][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Plane': Can't find file.
+[2021.07.10-18.06.59:999][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane'
+[2021.07.10-18.07.00:000][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_QuadPyramid': Can't find file.
+[2021.07.10-18.07.00:000][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_QuadPyramid': Can't find file.
+[2021.07.10-18.07.00:000][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid'
+[2021.07.10-18.07.00:000][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Torus': Can't find file.
+[2021.07.10-18.07.00:000][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Torus': Can't find file.
+[2021.07.10-18.07.00:000][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus'
+[2021.07.10-18.07.00:000][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_TriPyramid': Can't find file.
+[2021.07.10-18.07.00:000][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_TriPyramid': Can't find file.
+[2021.07.10-18.07.00:000][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_TriPyramid.Shape_TriPyramid'
+[2021.07.10-18.07.00:001][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Trim': Can't find file.
+[2021.07.10-18.07.00:001][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Trim': Can't find file.
+[2021.07.10-18.07.00:001][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Trim.Shape_Trim'
+[2021.07.10-18.07.00:001][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Trim_90_In': Can't find file.
+[2021.07.10-18.07.00:001][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Trim_90_In': Can't find file.
+[2021.07.10-18.07.00:001][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Trim_90_In.Shape_Trim_90_In'
+[2021.07.10-18.07.00:001][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Trim_90_Out': Can't find file.
+[2021.07.10-18.07.00:001][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Trim_90_Out': Can't find file.
+[2021.07.10-18.07.00:001][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Trim_90_Out.Shape_Trim_90_Out'
+[2021.07.10-18.07.00:002][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Tube': Can't find file.
+[2021.07.10-18.07.00:002][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Tube': Can't find file.
+[2021.07.10-18.07.00:002][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube'
+[2021.07.10-18.07.00:002][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Wedge_A': Can't find file.
+[2021.07.10-18.07.00:002][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Wedge_A': Can't find file.
+[2021.07.10-18.07.00:002][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Wedge_A.Shape_Wedge_A'
+[2021.07.10-18.07.00:002][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Wedge_B': Can't find file.
+[2021.07.10-18.07.00:002][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_Wedge_B': Can't find file.
+[2021.07.10-18.07.00:002][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B'
+[2021.07.10-18.07.00:003][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_WideCapsule': Can't find file.
+[2021.07.10-18.07.00:003][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Shapes/Shape_WideCapsule': Can't find file.
+[2021.07.10-18.07.00:003][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule'
+[2021.07.10-18.07.00:003][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Beveled_D': Can't find file.
+[2021.07.10-18.07.00:003][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Beveled_D': Can't find file.
+[2021.07.10-18.07.00:003][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Clay_Beveled_D.T_Brick_Clay_Beveled_D'
+[2021.07.10-18.07.00:003][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Beveled_M': Can't find file.
+[2021.07.10-18.07.00:004][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Beveled_M': Can't find file.
+[2021.07.10-18.07.00:004][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Clay_Beveled_M.T_Brick_Clay_Beveled_M'
+[2021.07.10-18.07.00:004][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Beveled_N': Can't find file.
+[2021.07.10-18.07.00:004][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Beveled_N': Can't find file.
+[2021.07.10-18.07.00:004][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Clay_Beveled_N.T_Brick_Clay_Beveled_N'
+[2021.07.10-18.07.00:004][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_New_D': Can't find file.
+[2021.07.10-18.07.00:004][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_New_D': Can't find file.
+[2021.07.10-18.07.00:004][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Clay_New_D.T_Brick_Clay_New_D'
+[2021.07.10-18.07.00:004][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_New_M': Can't find file.
+[2021.07.10-18.07.00:005][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_New_M': Can't find file.
+[2021.07.10-18.07.00:005][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Clay_New_M.T_Brick_Clay_New_M'
+[2021.07.10-18.07.00:005][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_New_N': Can't find file.
+[2021.07.10-18.07.00:005][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_New_N': Can't find file.
+[2021.07.10-18.07.00:005][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Clay_New_N.T_Brick_Clay_New_N'
+[2021.07.10-18.07.00:005][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Old_D': Can't find file.
+[2021.07.10-18.07.00:005][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Old_D': Can't find file.
+[2021.07.10-18.07.00:005][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Clay_Old_D.T_Brick_Clay_Old_D'
+[2021.07.10-18.07.00:005][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Old_N': Can't find file.
+[2021.07.10-18.07.00:006][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Clay_Old_N': Can't find file.
+[2021.07.10-18.07.00:006][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Clay_Old_N.T_Brick_Clay_Old_N'
+[2021.07.10-18.07.00:006][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Cut_Stone_D': Can't find file.
+[2021.07.10-18.07.00:006][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Cut_Stone_D': Can't find file.
+[2021.07.10-18.07.00:006][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Cut_Stone_D.T_Brick_Cut_Stone_D'
+[2021.07.10-18.07.00:006][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Cut_Stone_N': Can't find file.
+[2021.07.10-18.07.00:006][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Cut_Stone_N': Can't find file.
+[2021.07.10-18.07.00:006][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Cut_Stone_N.T_Brick_Cut_Stone_N'
+[2021.07.10-18.07.00:006][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D': Can't find file.
+[2021.07.10-18.07.00:007][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D': Can't find file.
+[2021.07.10-18.07.00:007][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D.T_Brick_Hewn_Stone_D'
+[2021.07.10-18.07.00:007][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_M': Can't find file.
+[2021.07.10-18.07.00:007][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_M': Can't find file.
+[2021.07.10-18.07.00:007][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Hewn_Stone_M.T_Brick_Hewn_Stone_M'
+[2021.07.10-18.07.00:007][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_N': Can't find file.
+[2021.07.10-18.07.00:007][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Brick_Hewn_Stone_N': Can't find file.
+[2021.07.10-18.07.00:007][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Brick_Hewn_Stone_N.T_Brick_Hewn_Stone_N'
+[2021.07.10-18.07.00:008][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Burst_M': Can't find file.
+[2021.07.10-18.07.00:008][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Burst_M': Can't find file.
+[2021.07.10-18.07.00:008][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Burst_M.T_Burst_M'
+[2021.07.10-18.07.00:008][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Bush_D': Can't find file.
+[2021.07.10-18.07.00:008][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Bush_D': Can't find file.
+[2021.07.10-18.07.00:008][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Bush_D.T_Bush_D'
+[2021.07.10-18.07.00:008][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Bush_N': Can't find file.
+[2021.07.10-18.07.00:008][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Bush_N': Can't find file.
+[2021.07.10-18.07.00:008][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Bush_N.T_Bush_N'
+[2021.07.10-18.07.00:009][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ceramic_Tile_M': Can't find file.
+[2021.07.10-18.07.00:009][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ceramic_Tile_M': Can't find file.
+[2021.07.10-18.07.00:009][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Ceramic_Tile_M.T_Ceramic_Tile_M'
+[2021.07.10-18.07.00:009][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ceramic_Tile_N': Can't find file.
+[2021.07.10-18.07.00:009][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ceramic_Tile_N': Can't find file.
+[2021.07.10-18.07.00:009][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Ceramic_Tile_N.T_Ceramic_Tile_N'
+[2021.07.10-18.07.00:009][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Chair_M': Can't find file.
+[2021.07.10-18.07.00:009][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Chair_M': Can't find file.
+[2021.07.10-18.07.00:010][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Chair_M.T_Chair_M'
+[2021.07.10-18.07.00:010][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Chair_N': Can't find file.
+[2021.07.10-18.07.00:010][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Chair_N': Can't find file.
+[2021.07.10-18.07.00:010][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Chair_N.T_Chair_N'
+[2021.07.10-18.07.00:010][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Checker_Noise_M': Can't find file.
+[2021.07.10-18.07.00:010][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Checker_Noise_M': Can't find file.
+[2021.07.10-18.07.00:010][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Checker_Noise_M.T_Checker_Noise_M'
+[2021.07.10-18.07.00:010][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Pebble_D': Can't find file.
+[2021.07.10-18.07.00:010][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Pebble_D': Can't find file.
+[2021.07.10-18.07.00:011][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_CobbleStone_Pebble_D.T_CobbleStone_Pebble_D'
+[2021.07.10-18.07.00:011][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Pebble_M': Can't find file.
+[2021.07.10-18.07.00:011][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Pebble_M': Can't find file.
+[2021.07.10-18.07.00:011][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_CobbleStone_Pebble_M.T_CobbleStone_Pebble_M'
+[2021.07.10-18.07.00:011][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Pebble_N': Can't find file.
+[2021.07.10-18.07.00:011][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Pebble_N': Can't find file.
+[2021.07.10-18.07.00:011][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_CobbleStone_Pebble_N.T_CobbleStone_Pebble_N'
+[2021.07.10-18.07.00:011][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Rough_D': Can't find file.
+[2021.07.10-18.07.00:012][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Rough_D': Can't find file.
+[2021.07.10-18.07.00:012][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_CobbleStone_Rough_D.T_CobbleStone_Rough_D'
+[2021.07.10-18.07.00:012][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Rough_N': Can't find file.
+[2021.07.10-18.07.00:012][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Rough_N': Can't find file.
+[2021.07.10-18.07.00:012][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N'
+[2021.07.10-18.07.00:012][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Smooth_D': Can't find file.
+[2021.07.10-18.07.00:012][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Smooth_D': Can't find file.
+[2021.07.10-18.07.00:012][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_CobbleStone_Smooth_D.T_CobbleStone_Smooth_D'
+[2021.07.10-18.07.00:013][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Smooth_M': Can't find file.
+[2021.07.10-18.07.00:013][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Smooth_M': Can't find file.
+[2021.07.10-18.07.00:013][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_CobbleStone_Smooth_M.T_CobbleStone_Smooth_M'
+[2021.07.10-18.07.00:013][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Smooth_N': Can't find file.
+[2021.07.10-18.07.00:013][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_CobbleStone_Smooth_N': Can't find file.
+[2021.07.10-18.07.00:013][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_CobbleStone_Smooth_N.T_CobbleStone_Smooth_N'
+[2021.07.10-18.07.00:014][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Grime_D': Can't find file.
+[2021.07.10-18.07.00:014][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Grime_D': Can't find file.
+[2021.07.10-18.07.00:014][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Concrete_Grime_D.T_Concrete_Grime_D'
+[2021.07.10-18.07.00:014][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Panels_D': Can't find file.
+[2021.07.10-18.07.00:014][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Panels_D': Can't find file.
+[2021.07.10-18.07.00:014][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Concrete_Panels_D.T_Concrete_Panels_D'
+[2021.07.10-18.07.00:014][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Panels_N': Can't find file.
+[2021.07.10-18.07.00:014][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Panels_N': Can't find file.
+[2021.07.10-18.07.00:014][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Concrete_Panels_N.T_Concrete_Panels_N'
+[2021.07.10-18.07.00:015][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_D': Can't find file.
+[2021.07.10-18.07.00:015][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_D': Can't find file.
+[2021.07.10-18.07.00:015][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Concrete_Poured_D.T_Concrete_Poured_D'
+[2021.07.10-18.07.00:015][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.07.10-18.07.00:015][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.07.10-18.07.00:015][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Concrete_Poured_N.T_Concrete_Poured_N'
+[2021.07.10-18.07.00:015][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Tiles_D': Can't find file.
+[2021.07.10-18.07.00:015][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Tiles_D': Can't find file.
+[2021.07.10-18.07.00:016][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Concrete_Tiles_D.T_Concrete_Tiles_D'
+[2021.07.10-18.07.00:016][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Tiles_M': Can't find file.
+[2021.07.10-18.07.00:016][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Tiles_M': Can't find file.
+[2021.07.10-18.07.00:016][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Concrete_Tiles_M.T_Concrete_Tiles_M'
+[2021.07.10-18.07.00:016][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Tiles_N': Can't find file.
+[2021.07.10-18.07.00:016][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Tiles_N': Can't find file.
+[2021.07.10-18.07.00:016][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Concrete_Tiles_N.T_Concrete_Tiles_N'
+[2021.07.10-18.07.00:016][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M': Can't find file.
+[2021.07.10-18.07.00:017][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M': Can't find file.
+[2021.07.10-18.07.00:017][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M.T_Concrete_Tiles_Variation_M'
+[2021.07.10-18.07.00:017][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Detail_Rocky_N': Can't find file.
+[2021.07.10-18.07.00:017][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Detail_Rocky_N': Can't find file.
+[2021.07.10-18.07.00:017][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Detail_Rocky_N.T_Detail_Rocky_N'
+[2021.07.10-18.07.00:017][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Door_M': Can't find file.
+[2021.07.10-18.07.00:017][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Door_M': Can't find file.
+[2021.07.10-18.07.00:017][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Door_M.T_Door_M'
+[2021.07.10-18.07.00:017][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Door_N': Can't find file.
+[2021.07.10-18.07.00:018][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Door_N': Can't find file.
+[2021.07.10-18.07.00:018][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Door_N.T_Door_N'
+[2021.07.10-18.07.00:018][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Dust_Particle_D': Can't find file.
+[2021.07.10-18.07.00:018][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Dust_Particle_D': Can't find file.
+[2021.07.10-18.07.00:018][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Dust_Particle_D.T_Dust_Particle_D'
+[2021.07.10-18.07.00:018][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Explosion_SubUV': Can't find file.
+[2021.07.10-18.07.00:018][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Explosion_SubUV': Can't find file.
+[2021.07.10-18.07.00:018][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Explosion_SubUV.T_Explosion_SubUV'
+[2021.07.10-18.07.00:019][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Fire_SubUV': Can't find file.
+[2021.07.10-18.07.00:019][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Fire_SubUV': Can't find file.
+[2021.07.10-18.07.00:019][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Fire_SubUV.T_Fire_SubUV'
+[2021.07.10-18.07.00:019][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Fire_Tiled_D': Can't find file.
+[2021.07.10-18.07.00:019][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Fire_Tiled_D': Can't find file.
+[2021.07.10-18.07.00:019][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Fire_Tiled_D.T_Fire_Tiled_D'
+[2021.07.10-18.07.00:019][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Frame_M': Can't find file.
+[2021.07.10-18.07.00:019][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Frame_M': Can't find file.
+[2021.07.10-18.07.00:019][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Frame_M.T_Frame_M'
+[2021.07.10-18.07.00:020][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Frame_N': Can't find file.
+[2021.07.10-18.07.00:020][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Frame_N': Can't find file.
+[2021.07.10-18.07.00:020][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Frame_N.T_Frame_N'
+[2021.07.10-18.07.00:020][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Gradinet_01': Can't find file.
+[2021.07.10-18.07.00:020][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Gradinet_01': Can't find file.
+[2021.07.10-18.07.00:020][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01'
+[2021.07.10-18.07.00:020][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Grass_D': Can't find file.
+[2021.07.10-18.07.00:020][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Grass_D': Can't find file.
+[2021.07.10-18.07.00:021][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Ground_Grass_D.T_Ground_Grass_D'
+[2021.07.10-18.07.00:021][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Grass_N': Can't find file.
+[2021.07.10-18.07.00:021][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Grass_N': Can't find file.
+[2021.07.10-18.07.00:021][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Ground_Grass_N.T_Ground_Grass_N'
+[2021.07.10-18.07.00:021][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Gravel_D': Can't find file.
+[2021.07.10-18.07.00:021][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Gravel_D': Can't find file.
+[2021.07.10-18.07.00:021][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Ground_Gravel_D.T_Ground_Gravel_D'
+[2021.07.10-18.07.00:021][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Gravel_N': Can't find file.
+[2021.07.10-18.07.00:021][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Gravel_N': Can't find file.
+[2021.07.10-18.07.00:021][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Ground_Gravel_N.T_Ground_Gravel_N'
+[2021.07.10-18.07.00:022][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Moss_N': Can't find file.
+[2021.07.10-18.07.00:022][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Ground_Moss_N': Can't find file.
+[2021.07.10-18.07.00:022][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Ground_Moss_N.T_Ground_Moss_N'
+[2021.07.10-18.07.00:022][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Lamp_M': Can't find file.
+[2021.07.10-18.07.00:022][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Lamp_M': Can't find file.
+[2021.07.10-18.07.00:022][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Lamp_M.T_Lamp_M'
+[2021.07.10-18.07.00:022][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Lamp_N': Can't find file.
+[2021.07.10-18.07.00:022][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Lamp_N': Can't find file.
+[2021.07.10-18.07.00:022][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Lamp_N.T_Lamp_N'
+[2021.07.10-18.07.00:023][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.07.10-18.07.00:023][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2021.07.10-18.07.00:023][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation'
+[2021.07.10-18.07.00:023][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Aluminum_D': Can't find file.
+[2021.07.10-18.07.00:023][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Aluminum_D': Can't find file.
+[2021.07.10-18.07.00:023][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Metal_Aluminum_D.T_Metal_Aluminum_D'
+[2021.07.10-18.07.00:023][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Copper_D': Can't find file.
+[2021.07.10-18.07.00:023][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Copper_D': Can't find file.
+[2021.07.10-18.07.00:023][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Metal_Copper_D.T_Metal_Copper_D'
+[2021.07.10-18.07.00:024][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_D': Can't find file.
+[2021.07.10-18.07.00:024][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_D': Can't find file.
+[2021.07.10-18.07.00:024][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Metal_Gold_D.T_Metal_Gold_D'
+[2021.07.10-18.07.00:024][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_N': Can't find file.
+[2021.07.10-18.07.00:024][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Gold_N': Can't find file.
+[2021.07.10-18.07.00:024][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Metal_Gold_N.T_Metal_Gold_N'
+[2021.07.10-18.07.00:024][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Rust_D': Can't find file.
+[2021.07.10-18.07.00:024][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Rust_D': Can't find file.
+[2021.07.10-18.07.00:024][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Metal_Rust_D.T_Metal_Rust_D'
+[2021.07.10-18.07.00:025][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Rust_N': Can't find file.
+[2021.07.10-18.07.00:025][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Rust_N': Can't find file.
+[2021.07.10-18.07.00:025][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Metal_Rust_N.T_Metal_Rust_N'
+[2021.07.10-18.07.00:025][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Steel_D': Can't find file.
+[2021.07.10-18.07.00:025][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Steel_D': Can't find file.
+[2021.07.10-18.07.00:025][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Metal_Steel_D.T_Metal_Steel_D'
+[2021.07.10-18.07.00:025][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Steel_N': Can't find file.
+[2021.07.10-18.07.00:025][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Metal_Steel_N': Can't find file.
+[2021.07.10-18.07.00:025][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Metal_Steel_N.T_Metal_Steel_N'
+[2021.07.10-18.07.00:026][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2021.07.10-18.07.00:026][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2021.07.10-18.07.00:026][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M'
+[2021.07.10-18.07.00:026][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_RockMesh_M': Can't find file.
+[2021.07.10-18.07.00:026][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_RockMesh_M': Can't find file.
+[2021.07.10-18.07.00:026][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_RockMesh_M.T_RockMesh_M'
+[2021.07.10-18.07.00:026][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_RockMesh_N': Can't find file.
+[2021.07.10-18.07.00:026][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_RockMesh_N': Can't find file.
+[2021.07.10-18.07.00:026][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_RockMesh_N.T_RockMesh_N'
+[2021.07.10-18.07.00:027][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Basalt_D': Can't find file.
+[2021.07.10-18.07.00:027][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Basalt_D': Can't find file.
+[2021.07.10-18.07.00:027][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Rock_Basalt_D.T_Rock_Basalt_D'
+[2021.07.10-18.07.00:027][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Basalt_N': Can't find file.
+[2021.07.10-18.07.00:027][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Basalt_N': Can't find file.
+[2021.07.10-18.07.00:027][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Rock_Basalt_N.T_Rock_Basalt_N'
+[2021.07.10-18.07.00:027][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D': Can't find file.
+[2021.07.10-18.07.00:027][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D': Can't find file.
+[2021.07.10-18.07.00:027][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D'
+[2021.07.10-18.07.00:028][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Sandstone_D': Can't find file.
+[2021.07.10-18.07.00:028][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Sandstone_D': Can't find file.
+[2021.07.10-18.07.00:028][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Rock_Sandstone_D.T_Rock_Sandstone_D'
+[2021.07.10-18.07.00:028][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Sandstone_N': Can't find file.
+[2021.07.10-18.07.00:028][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Sandstone_N': Can't find file.
+[2021.07.10-18.07.00:028][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Rock_Sandstone_N.T_Rock_Sandstone_N'
+[2021.07.10-18.07.00:028][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Slate_D': Can't find file.
+[2021.07.10-18.07.00:029][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Slate_D': Can't find file.
+[2021.07.10-18.07.00:029][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Rock_Slate_D.T_Rock_Slate_D'
+[2021.07.10-18.07.00:029][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Slate_N': Can't find file.
+[2021.07.10-18.07.00:029][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Slate_N': Can't find file.
+[2021.07.10-18.07.00:029][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Rock_Slate_N.T_Rock_Slate_N'
+[2021.07.10-18.07.00:029][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D': Can't find file.
+[2021.07.10-18.07.00:029][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D': Can't find file.
+[2021.07.10-18.07.00:029][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D'
+[2021.07.10-18.07.00:030][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Shelf_M': Can't find file.
+[2021.07.10-18.07.00:030][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Shelf_M': Can't find file.
+[2021.07.10-18.07.00:030][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Shelf_M.T_Shelf_M'
+[2021.07.10-18.07.00:030][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Shelf_N': Can't find file.
+[2021.07.10-18.07.00:030][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Shelf_N': Can't find file.
+[2021.07.10-18.07.00:030][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Shelf_N.T_Shelf_N'
+[2021.07.10-18.07.00:030][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Single_Tile_N': Can't find file.
+[2021.07.10-18.07.00:030][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Single_Tile_N': Can't find file.
+[2021.07.10-18.07.00:031][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Single_Tile_N.T_Single_Tile_N'
+[2021.07.10-18.07.00:031][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2021.07.10-18.07.00:031][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2021.07.10-18.07.00:031][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Smoke_SubUV.T_Smoke_SubUV'
+[2021.07.10-18.07.00:031][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2021.07.10-18.07.00:031][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2021.07.10-18.07.00:031][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D'
+[2021.07.10-18.07.00:031][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Spark_Core': Can't find file.
+[2021.07.10-18.07.00:032][722]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Spark_Core': Can't find file.
+[2021.07.10-18.07.00:032][722]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Spark_Core.T_Spark_Core'
+[2021.07.10-18.07.00:292][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_TableRound_M': Can't find file.
+[2021.07.10-18.07.00:292][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_TableRound_M': Can't find file.
+[2021.07.10-18.07.00:292][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_TableRound_M.T_TableRound_M'
+[2021.07.10-18.07.00:293][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_TableRound_N': Can't find file.
+[2021.07.10-18.07.00:293][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_TableRound_N': Can't find file.
+[2021.07.10-18.07.00:293][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_TableRound_N.T_TableRound_N'
+[2021.07.10-18.07.00:293][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Dot_M': Can't find file.
+[2021.07.10-18.07.00:293][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Dot_M': Can't find file.
+[2021.07.10-18.07.00:293][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Tech_Dot_M.T_Tech_Dot_M'
+[2021.07.10-18.07.00:294][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Dot_N': Can't find file.
+[2021.07.10-18.07.00:294][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Dot_N': Can't find file.
+[2021.07.10-18.07.00:294][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Tech_Dot_N.T_Tech_Dot_N'
+[2021.07.10-18.07.00:294][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Hex_Tile_M': Can't find file.
+[2021.07.10-18.07.00:294][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Hex_Tile_M': Can't find file.
+[2021.07.10-18.07.00:294][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Tech_Hex_Tile_M.T_Tech_Hex_Tile_M'
+[2021.07.10-18.07.00:294][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Hex_Tile_N': Can't find file.
+[2021.07.10-18.07.00:294][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Hex_Tile_N': Can't find file.
+[2021.07.10-18.07.00:294][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Tech_Hex_Tile_N.T_Tech_Hex_Tile_N'
+[2021.07.10-18.07.00:295][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Panel_M': Can't find file.
+[2021.07.10-18.07.00:295][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Panel_M': Can't find file.
+[2021.07.10-18.07.00:295][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Tech_Panel_M.T_Tech_Panel_M'
+[2021.07.10-18.07.00:295][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Panel_N': Can't find file.
+[2021.07.10-18.07.00:295][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Tech_Panel_N': Can't find file.
+[2021.07.10-18.07.00:295][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Tech_Panel_N.T_Tech_Panel_N'
+[2021.07.10-18.07.00:295][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2021.07.10-18.07.00:295][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2021.07.10-18.07.00:295][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Water_M.T_Water_M'
+[2021.07.10-18.07.00:296][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2021.07.10-18.07.00:296][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2021.07.10-18.07.00:296][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Water_N.T_Water_N'
+[2021.07.10-18.07.00:296][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2021.07.10-18.07.00:296][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D': Can't find file.
+[2021.07.10-18.07.00:296][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Wood_Floor_Walnut_D.T_Wood_Floor_Walnut_D'
+[2021.07.10-18.07.00:296][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2021.07.10-18.07.00:297][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M': Can't find file.
+[2021.07.10-18.07.00:297][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Wood_Floor_Walnut_M.T_Wood_Floor_Walnut_M'
+[2021.07.10-18.07.00:297][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2021.07.10-18.07.00:297][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N': Can't find file.
+[2021.07.10-18.07.00:297][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Wood_Floor_Walnut_N.T_Wood_Floor_Walnut_N'
+[2021.07.10-18.07.00:297][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_D': Can't find file.
+[2021.07.10-18.07.00:298][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_D': Can't find file.
+[2021.07.10-18.07.00:298][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D'
+[2021.07.10-18.07.00:298][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_N': Can't find file.
+[2021.07.10-18.07.00:298][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Oak_N': Can't find file.
+[2021.07.10-18.07.00:298][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N'
+[2021.07.10-18.07.00:298][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Pine_D': Can't find file.
+[2021.07.10-18.07.00:298][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Pine_D': Can't find file.
+[2021.07.10-18.07.00:298][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Wood_Pine_D.T_Wood_Pine_D'
+[2021.07.10-18.07.00:299][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Pine_N': Can't find file.
+[2021.07.10-18.07.00:299][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Pine_N': Can't find file.
+[2021.07.10-18.07.00:299][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Wood_Pine_N.T_Wood_Pine_N'
+[2021.07.10-18.07.00:299][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Walnut_D': Can't find file.
+[2021.07.10-18.07.00:299][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Walnut_D': Can't find file.
+[2021.07.10-18.07.00:299][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Wood_Walnut_D.T_Wood_Walnut_D'
+[2021.07.10-18.07.00:299][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Walnut_N': Can't find file.
+[2021.07.10-18.07.00:299][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_Wood_Walnut_N': Can't find file.
+[2021.07.10-18.07.00:299][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_Wood_Walnut_N.T_Wood_Walnut_N'
+[2021.07.10-18.07.00:300][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_ground_Moss_D': Can't find file.
+[2021.07.10-18.07.00:300][723]LogLinker: Warning: Failed to load '/Game/StarterContent/Textures/T_ground_Moss_D': Can't find file.
+[2021.07.10-18.07.00:300][723]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Textures/T_ground_Moss_D.T_ground_Moss_D'
+[2021.07.10-18.17.52:270][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.07.10-18.17.52:294][668]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel8125A4C0406C9096903638B927199EE1.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-18.17.52:427][668]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltDataBCAD661E4DAF66858D096DB0FE13D98D.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-18.17.52:436][668]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-18.17.52:436][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-18.17.52:436][668]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-18.27.07:814][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2021.07.10-18.27.11:261][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.07.10-18.27.11:291][981]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel589A048B4049A1EBA4ABCF87CD6CCA62.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-18.27.11:428][981]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltDataF3E239A241610EE46EFD6CA2BFF5EE84.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-18.27.11:436][981]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-18.27.11:436][981]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-18.27.11:436][981]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
