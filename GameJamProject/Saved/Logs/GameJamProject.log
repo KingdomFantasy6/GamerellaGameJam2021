@@ -1096,3 +1096,225 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.10-17.22.13:766][296]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.10-17.22.13:766][296]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
 [2021.07.10-17.22.13:766][296]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-17.30.46:351][576]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.10-17.30.46:358][576]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.07.10-17.30.46:369][576]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.07.10-17.30.53:183][394]LogContentBrowser: Attempting asset rename: NewBlueprint -> PlayerTake2
+[2021.07.10-17.30.53:252][394]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.07.10-17.30.54:166][502]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.32.31:949][950]LogSlate: Window 'PlayerTake2' being destroyed
+[2021.07.10-17.32.36:928][433]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.10-17.32.50:556][747]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.35.11:877][ 71]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.10-17.35.11:883][ 71]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.10-17.36.30:746][238]BlueprintLog: New page: Compile PlayerTake2
+[2021.07.10-17.36.30:828][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2021.07.10-17.36.31:723][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerTake2" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset" SILENT=true
+[2021.07.10-17.36.31:728][311]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake206A478114F29C9D9421EFFA9037DDF15.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset'
+[2021.07.10-17.36.31:905][311]AssetCheck: New page: Asset Save: PlayerTake2
+[2021.07.10-17.36.31:905][311]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.36.35:410][706]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GJ_GameMode.GJ_GameMode
+[2021.07.10-17.36.39:445][132]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.10-17.36.42:543][469]BlueprintLog: New page: Compile GJ_GameMode
+[2021.07.10-17.36.42:601][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.07.10-17.36.43:289][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GJ_GameMode" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/GJ_GameMode.uasset" SILENT=true
+[2021.07.10-17.36.43:292][539]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/GJ_GameModeC99FB98A44B1889BAC006187AF60E295.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/GJ_GameMode.uasset'
+[2021.07.10-17.36.43:302][539]AssetCheck: New page: Asset Save: GJ_GameMode
+[2021.07.10-17.36.43:302][539]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GJ_GameMode.GJ_GameMode
+[2021.07.10-17.43.33:582][774]BlueprintLog: New page: Compile PlayerTake2
+[2021.07.10-17.43.33:648][774]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.07.10-17.43.36:096][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerTake2" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset" SILENT=true
+[2021.07.10-17.43.36:109][ 50]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake29A83AE0E43F5C84FB342D6B200772E3D.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset'
+[2021.07.10-17.43.36:122][ 50]AssetCheck: New page: Asset Save: PlayerTake2
+[2021.07.10-17.43.36:122][ 50]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.44.26:340][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.07.10-17.44.26:342][954]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.042
+[2021.07.10-17.44.26:343][954]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerTake2] ([1] browsable assets)...
+[2021.07.10-17.44.26:343][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerTake2]
+[2021.07.10-17.44.26:359][954]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake2_Auto4CB597F624477994681D9539AA5C8CE56.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Blueprints/PlayerTake2_Auto4.uasset'
+[2021.07.10-17.44.26:360][954]LogFileHelpers: Auto-saving content packages took 0.018
+[2021.07.10-17.44.53:638][216]BlueprintLog: New page: Compile PlayerTake2
+[2021.07.10-17.44.53:704][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.07.10-17.44.54:443][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerTake2" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset" SILENT=true
+[2021.07.10-17.44.54:460][288]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake2FC0BA63142DFC9586377EFBEE30D0166.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset'
+[2021.07.10-17.44.54:473][288]AssetCheck: New page: Asset Save: PlayerTake2
+[2021.07.10-17.44.54:473][288]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.45.00:497][  4]LogEditorViewport: Clicking on Actor (LMB): Player_C (Player)
+[2021.07.10-17.45.00:842][ 41]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.10-17.45.05:034][536]Cmd: DELETE
+[2021.07.10-17.45.05:035][536]Cmd: ACTOR DELETE
+[2021.07.10-17.45.05:038][536]LogEditorActor: Deleted Actor: Player_C
+[2021.07.10-17.45.05:091][536]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.07.10-17.45.05:094][536]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2021.07.10-17.45.15:780][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.07.10-17.45.15:816][723]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel3D6194404A3A1DF06A7FA39F419B99D8.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-17.45.16:000][723]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltDataF3137F2E4941EE930A6D66BB316DF740.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-17.45.16:012][723]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-17.45.16:012][723]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-17.45.16:013][723]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-17.45.19:115][ 88]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-17.45.19:115][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-17.45.20:184][210]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.10-17.45.20:184][210]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-17.45.20:184][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-17.45.32:109][593]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.46.28:140][595]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.10-17.50.05:990][583]BlueprintLog: New page: Compile PlayerTake2
+[2021.07.10-17.50.06:161][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.07.10-17.50.06:741][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerTake2" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset" SILENT=true
+[2021.07.10-17.50.06:762][625]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake2A10D386842ED15B650B46C8935021234.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset'
+[2021.07.10-17.50.06:778][625]AssetCheck: New page: Asset Save: PlayerTake2
+[2021.07.10-17.50.06:778][625]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.50.18:361][683]BlueprintLog: New page: Compile PlayerTake2
+[2021.07.10-17.50.18:503][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.07.10-17.50.19:336][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerTake2" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset" SILENT=true
+[2021.07.10-17.50.19:359][732]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake29D213D6446D7BD06B46A06933B029546.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset'
+[2021.07.10-17.50.19:373][732]AssetCheck: New page: Asset Save: PlayerTake2
+[2021.07.10-17.50.19:373][732]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.50.20:430][818]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-17.50.20:431][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-17.50.21:516][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.07.10-17.50.21:559][888]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevelC46ABB69406477F3DF5DCD8053B6BFF2.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-17.50.21:770][888]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltDataA4972A7B4748D7900C32919CC02EA584.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-17.50.21:781][888]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-17.50.21:781][888]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-17.50.21:781][888]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-17.50.31:901][693]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.50.37:521][ 22]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.37:521][ 22]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.37:521][ 22]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.48:402][701]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.48:402][701]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.48:402][701]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.52:156][883]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.52:156][883]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.52:156][883]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.52:156][883]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.52:157][883]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.52:157][883]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UnicolorCarpaint.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UnicolorCarpaint.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.52:157][883]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMaterials/UnlitText.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMaterials/UnlitText.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.52:157][883]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/BufferVisualization/Velocity.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/BufferVisualization/Velocity.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.54:750][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.54:750][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.54:750][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.54:750][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.54:750][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.54:750][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UnicolorCarpaint.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UnicolorCarpaint.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.54:750][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMaterials/UnlitText.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMaterials/UnlitText.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.54:750][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/BufferVisualization/Velocity.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/BufferVisualization/Velocity.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.57:429][156]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.58:603][230]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/StaticMeshDecal.uasset: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/StaticMeshDecal.uasset' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-17.50.59:319][270]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_StatueGlass.M_StatueGlass needed to have new flag set bUsedWithSkeletalMesh !
+[2021.07.10-17.50.59:321][270]LogMaterial: Display: Missing cached shader map for material M_StatueGlass, compiling. 
+[2021.07.10-17.50.59:533][271]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 72
+[2021.07.10-17.50.59:533][271]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 62
+[2021.07.10-17.50.59:533][271]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2021.07.10-17.50.59:533][271]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 42
+[2021.07.10-17.50.59:533][271]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2021.07.10-17.50.59:533][271]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.07.10-17.50.59:533][271]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.07.10-17.50.59:533][271]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.10-17.52.39:929][168]BlueprintLog: New page: Compile PlayerTake2
+[2021.07.10-17.52.40:089][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.07.10-17.52.41:104][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerTake2" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset" SILENT=true
+[2021.07.10-17.52.41:136][226]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake209262C4548184AFD66BE60AA80E4CBE7.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset'
+[2021.07.10-17.52.41:152][226]AssetCheck: New page: Asset Save: PlayerTake2
+[2021.07.10-17.52.41:152][226]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.52.50:945][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.07.10-17.52.50:985][975]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel5B14AB30459DE34A5A5F55934C4D2A29.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-17.52.51:171][975]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltDataC5B81B1046B967F1C17C92912735A91F.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-17.52.51:183][975]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-17.52.51:183][975]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-17.52.51:183][975]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-17.53.05:995][ 49]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.10-17.53.30:766][841]BlueprintLog: New page: Compile PlayerTake2
+[2021.07.10-17.53.30:960][841]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.07.10-17.53.31:553][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerTake2" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset" SILENT=true
+[2021.07.10-17.53.31:584][869]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake2C90C76A34AA2A8AF0832C8865AD6E408.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset'
+[2021.07.10-17.53.31:600][869]AssetCheck: New page: Asset Save: PlayerTake2
+[2021.07.10-17.53.31:600][869]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.53.33:649][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.10-17.53.33:656][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.10-17.53.33:656][ 16]PIE: New page: PIE session: MainLevel (Jul 10, 2021, 7:53:33 AM)
+[2021.07.10-17.53.33:678][ 16]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.07.10-17.53.33:686][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007791s)
+[2021.07.10-17.53.33:687][ 16]LogAIModule: Creating AISystem for world MainLevel
+[2021.07.10-17.53.33:687][ 16]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2021.07.10-17.53.33:687][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.009085s)
+[2021.07.10-17.53.33:719][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.07.10-17.53.33:723][ 16]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.10-17.53.33:723][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.10-17.53.33:723][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.10-17.53.33:723][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.10-17.53.33:723][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.10-17.53.33:723][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.10-17.53.33:723][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.10-17.53.33:723][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.10-17.53.33:723][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.10-17.53.33:723][ 16]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.10-17.53.33:724][ 16]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.10-17.53.33:727][ 16]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.10-17.53.33:727][ 16]LogAudioMixer: Display: 1: FrontRight
+[2021.07.10-17.53.33:739][ 16]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.07.10-17.53.33:739][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.10-17.53.33:739][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.10-17.53.33:739][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.10-17.53.33:740][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.10-17.53.33:740][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.10-17.53.33:740][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.10-17.53.33:741][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.10-17.53.33:741][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.10-17.53.33:741][ 16]LogInit: FAudioDevice initialized.
+[2021.07.10-17.53.33:741][ 16]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2021.07.10-17.53.33:761][ 16]LogLoad: Game class is 'GJ_GameMode_C'
+[2021.07.10-17.53.33:766][ 16]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.07.10-12.53.33
+[2021.07.10-17.53.33:768][ 16]LogWorld: Bringing up level for play took: 0.005734
+[2021.07.10-17.53.33:768][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.07.10-17.53.33:773][ 16]PIE: Server logged in
+[2021.07.10-17.53.33:774][ 16]PIE: Play in editor total start time 0.119 seconds.
+[2021.07.10-17.54.04:660][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.10-17.54.04:661][889]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.07.10-17.54.04:661][889]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-17.54.04:662][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-17.54.04:674][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.10-17.54.04:719][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-17.54.04:747][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.10-17.54.04:747][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.10-17.54.04:749][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.10-17.54.04:767][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.10-17.54.04:771][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.07.10-17.54.04:816][890]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.07.10-17.54.12:393][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerTake2" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset" SILENT=true
+[2021.07.10-17.54.12:418][439]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake23CB9CDDE4EC78689C8563CBBEEE6CA17.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset'
+[2021.07.10-17.54.12:432][439]AssetCheck: New page: Asset Save: PlayerTake2
+[2021.07.10-17.54.12:432][439]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-17.54.13:239][495]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-17.54.13:239][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-17.54.14:183][565]LogSlate: Window 'Player' being destroyed
+[2021.07.10-17.54.14:219][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.10-17.54.14:219][565]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-17.54.14:219][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-17.54.16:300][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.07.10-17.54.16:336][772]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel57CA65FB44A70CF8A458EA8337AAEE29.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-17.54.16:520][772]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltData661AD92B40BC7C45B3BE62B06A5D0603.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-17.54.16:532][772]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-17.54.16:532][772]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-17.54.16:532][772]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-17.56.01:595][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.07.10-17.56.01:622][462]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevelFD0BBD6349AD9409F87885A1CD9BA34A.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-17.56.01:765][462]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltData3A9ED5DB4D6A319A0E56EE928F174F22.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-17.56.01:774][462]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-17.56.01:774][462]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-17.56.01:774][462]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-18.03.37:025][964]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-18.03.39:675][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerTake2" FILE="../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset" SILENT=true
+[2021.07.10-18.03.39:693][160]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/PlayerTake255F6FF674C30F02BF8AA24A839895B10.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Blueprints/PlayerTake2.uasset'
+[2021.07.10-18.03.39:702][160]AssetCheck: New page: Asset Save: PlayerTake2
+[2021.07.10-18.03.39:702][160]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerTake2.PlayerTake2
+[2021.07.10-18.06.02:074][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.07.10-18.06.02:078][549]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.023
+[2021.07.10-18.06.02:079][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/Materials/M_StatueGlass] ([1] browsable assets)...
+[2021.07.10-18.06.02:104][549]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Props/Materials/M_StatueGlass.M_StatueGlass]
+[2021.07.10-18.06.02:104][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Materials/M_StatueGlass]
+[2021.07.10-18.06.02:111][549]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/M_StatueGlass_Auto5A0467DC749219D4E11510D8A046CB819.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/StarterContent/Props/Materials/M_StatueGlass_Auto5.uasset'
+[2021.07.10-18.06.02:111][549]LogFileHelpers: Auto-saving content packages took 0.033
