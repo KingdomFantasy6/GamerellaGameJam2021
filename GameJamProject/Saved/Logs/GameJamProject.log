@@ -2319,3 +2319,196 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.11-14.51.52:751][631]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto1F7ADF54E4FB300C8CF1FC2BB23A15CFC.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto1.umap'
 [2021.07.11-14.51.52:756][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.254
 [2021.07.11-14.51.52:756][631]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.254
+[2021.07.11-14.56.50:202][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.07.11-14.57.30:261][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2021.07.11-14.57.42:442][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.57.44:006][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2021.07.11-14.57.46:258][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.59.42:897][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.07.11-15.00.54:562][806]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube440)
+[2021.07.11-15.00.57:989][  6]Cmd: TRANSACTION UNDO
+[2021.07.11-15.00.57:989][  6]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.07.11-15.01.45:520][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.01.51:169][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.01.51:809][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube727)
+[2021.07.11-15.01.55:629][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.02.12:257][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube727)
+[2021.07.11-15.02.17:909][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube65)
+[2021.07.11-15.03.22:499][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.07.11-15.03.22:741][202]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto2DD7C924849C8158900B02CB8736FCC4F.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap'
+[2021.07.11-15.03.22:751][202]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.280
+[2021.07.11-15.03.22:751][202]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.280
+[2021.07.11-15.04.19:384][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube725)
+[2021.07.11-15.05.52:393][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube732)
+[2021.07.11-15.05.56:563][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.06.01:220][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube733)
+[2021.07.11-15.06.05:733][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube730)
+[2021.07.11-15.08.45:502][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube158)
+[2021.07.11-15.10.46:543][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2021.07.11-15.12.38:567][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2021.07.11-15.13.30:120][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube745)
+[2021.07.11-15.13.31:523][498]Cmd: DELETE
+[2021.07.11-15.13.31:523][498]Cmd: ACTOR DELETE
+[2021.07.11-15.13.31:537][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-15.13.31:589][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.07.11-15.13.31:591][498]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.07.11-15.13.32:798][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube744)
+[2021.07.11-15.13.39:730][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube742)
+[2021.07.11-15.13.59:092][138]Cmd: TRANSACTION UNDO
+[2021.07.11-15.13.59:092][138]LogEditorTransaction: Undo Move Actors
+[2021.07.11-15.14.43:308][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube187)
+[2021.07.11-15.14.56:301][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube758)
+[2021.07.11-15.15.56:729][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube759)
+[2021.07.11-15.16.01:800][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.16.03:118][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube760)
+[2021.07.11-15.16.07:235][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.16.09:055][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube752)
+[2021.07.11-15.16.12:353][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube753)
+[2021.07.11-15.16.14:902][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube754)
+[2021.07.11-15.16.16:667][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.16.38:664][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.16.39:371][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.16.40:309][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2021.07.11-15.17.00:174][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2021.07.11-15.17.16:369][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube203)
+[2021.07.11-15.17.22:196][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube195)
+[2021.07.11-15.17.40:226][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2021.07.11-15.17.44:176][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.17.49:678][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.17.50:418][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube203)
+[2021.07.11-15.17.51:462][981]Cmd: DELETE
+[2021.07.11-15.17.51:462][981]Cmd: ACTOR DELETE
+[2021.07.11-15.17.51:476][981]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-15.17.51:509][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.11-15.17.51:516][981]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.07.11-15.17.53:514][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube195)
+[2021.07.11-15.18.42:434][ 30]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.11-15.19.12:382][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.11-15.19.12:617][427]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto341C8CA6448F4BC23EC4F9392FE7F1CD0.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto3.umap'
+[2021.07.11-15.19.12:627][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.281
+[2021.07.11-15.19.12:627][427]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.281
+[2021.07.11-15.19.25:371][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.19.26:418][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube762)
+[2021.07.11-15.19.51:692][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube202)
+[2021.07.11-15.20.00:694][765]Cmd: TRANSACTION UNDO
+[2021.07.11-15.20.00:694][765]LogEditorTransaction: Undo Move Actors
+[2021.07.11-15.20.33:142][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube771)
+[2021.07.11-15.21.55:852][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2021.07.11-15.22.01:669][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2021.07.11-15.22.02:716][210]Cmd: DELETE
+[2021.07.11-15.22.02:716][210]Cmd: ACTOR DELETE
+[2021.07.11-15.22.02:730][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-15.22.02:763][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.07.11-15.22.02:765][210]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.07.11-15.22.09:789][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2021.07.11-15.22.13:013][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2021.07.11-15.22.15:681][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.22.47:806][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.07.11-15.22.49:151][275]Cmd: DELETE
+[2021.07.11-15.22.49:151][275]Cmd: ACTOR DELETE
+[2021.07.11-15.22.49:171][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-15.22.49:197][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.07.11-15.22.49:198][275]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.07.11-15.22.52:105][450]Cmd: TRANSACTION UNDO
+[2021.07.11-15.22.52:105][450]LogEditorTransaction: Undo Delete Actors
+[2021.07.11-15.22.57:102][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.07.11-15.22.57:979][784]Cmd: DELETE
+[2021.07.11-15.22.57:979][784]Cmd: ACTOR DELETE
+[2021.07.11-15.22.57:994][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-15.22.58:015][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.11-15.22.58:017][784]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.07.11-15.22.59:439][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.07.11-15.23.04:606][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.23.40:236][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2021.07.11-15.23.53:269][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.23.53:999][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube73)
+[2021.07.11-15.24.07:246][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2021.07.11-15.24.25:899][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2021.07.11-15.24.56:070][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2021.07.11-15.25.06:215][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2021.07.11-15.25.24:743][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2021.07.11-15.25.32:048][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube748)
+[2021.07.11-15.25.39:329][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2021.07.11-15.25.44:962][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.25.46:742][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2021.07.11-15.25.49:729][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.25.58:350][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2021.07.11-15.26.03:166][833]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube40)
+[2021.07.11-15.26.04:239][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2021.07.11-15.26.13:478][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube778)
+[2021.07.11-15.26.16:312][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.28.32:135][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube181)
+[2021.07.11-15.28.43:680][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube180)
+[2021.07.11-15.28.49:084][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.28.50:085][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube181)
+[2021.07.11-15.29.00:108][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.29.35:414][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube171)
+[2021.07.11-15.30.31:471][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.30.34:057][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube789)
+[2021.07.11-15.31.16:317][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube797)
+[2021.07.11-15.31.19:377][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube155)
+[2021.07.11-15.31.32:112][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube138)
+[2021.07.11-15.31.38:078][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube164)
+[2021.07.11-15.31.41:262][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.31.42:842][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube163)
+[2021.07.11-15.31.51:978][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube165)
+[2021.07.11-15.32.07:802][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.32.12:500][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube139)
+[2021.07.11-15.32.21:198][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube136)
+[2021.07.11-15.32.30:774][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube159)
+[2021.07.11-15.32.51:372][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube120)
+[2021.07.11-15.32.52:338][158]Cmd: DELETE
+[2021.07.11-15.32.52:338][158]Cmd: ACTOR DELETE
+[2021.07.11-15.32.52:356][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-15.32.52:390][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.07.11-15.32.52:392][158]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.07.11-15.32.54:514][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube147)
+[2021.07.11-15.33.00:936][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.33.05:882][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube148)
+[2021.07.11-15.33.13:112][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.33.22:889][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube152)
+[2021.07.11-15.33.26:649][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube172)
+[2021.07.11-15.33.31:833][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube175)
+[2021.07.11-15.33.34:332][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube176)
+[2021.07.11-15.33.38:484][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube175)
+[2021.07.11-15.33.40:665][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.33.43:264][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube176)
+[2021.07.11-15.33.48:683][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.34.04:865][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube171)
+[2021.07.11-15.34.29:471][937]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.07.11-15.34.30:400][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.34.31:172][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube799)
+[2021.07.11-15.34.48:330][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube174)
+[2021.07.11-15.35.04:850][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube166)
+[2021.07.11-15.35.18:204][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube801)
+[2021.07.11-15.35.19:401][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.35.20:397][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube799)
+[2021.07.11-15.35.25:699][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube172)
+[2021.07.11-15.35.48:202][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube799)
+[2021.07.11-15.36.16:263][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube803)
+[2021.07.11-15.36.19:650][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube804)
+[2021.07.11-15.37.22:977][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-15.38.18:991][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube810)
+[2021.07.11-15.38.26:590][485]Cmd: TRANSACTION UNDO
+[2021.07.11-15.38.26:591][485]LogEditorTransaction: Undo Move Actors
+[2021.07.11-15.38.42:658][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube818)
+[2021.07.11-15.38.44:205][514]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.11-15.39.47:781][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.07.11-15.39.48:049][306]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto408FC13494B6176406D30E280625F3F19.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto4.umap'
+[2021.07.11-15.39.48:054][306]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.302
+[2021.07.11-15.39.48:054][306]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.302
+[2021.07.11-15.43.23:342][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube758)
+[2021.07.11-15.43.25:798][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube89)
+[2021.07.11-15.43.30:773][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube758)
+[2021.07.11-15.43.46:207][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube808)
+[2021.07.11-15.44.14:116][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube824)
+[2021.07.11-15.44.18:797][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.07.11-15.44.23:303][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube826)
+[2021.07.11-15.44.26:684][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube825)
+[2021.07.11-15.44.58:246][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube823)
+[2021.07.11-15.45.29:645][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.07.11-15.45.37:022][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube834)
+[2021.07.11-15.45.58:762][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube808)
+[2021.07.11-15.46.03:865][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube832)
+[2021.07.11-15.46.22:367][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.07.11-15.46.23:018][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube828)
