@@ -2120,3 +2120,140 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.10-18.27.11:436][981]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.10-18.27.11:436][981]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
 [2021.07.10-18.27.11:436][981]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-18.27.57:549][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.07.10-18.27.57:578][169]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel75F355914A84831C3B57469E5856FEB1.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-18.27.57:719][169]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltData284DDCCE4F759F3113C0858BBB6842EE.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-18.27.57:729][169]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-18.27.57:729][169]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-18.27.57:729][169]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-18.28.08:685][475]Cmd: DELETE
+[2021.07.10-18.28.08:685][475]Cmd: ACTOR DELETE
+[2021.07.10-18.28.08:689][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.10-18.28.08:712][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.07.10-18.28.08:717][475]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.07.10-18.34.43:468][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2021.07.10-18.34.45:338][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube95)
+[2021.07.10-18.34.46:341][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2021.07.10-18.35.43:813][927]Cmd: TRANSACTION UNDO
+[2021.07.10-18.35.43:813][927]LogEditorTransaction: Undo Scale Actors
+[2021.07.10-18.35.50:104][622]Cmd: TRANSACTION UNDO
+[2021.07.10-18.35.50:104][622]LogEditorTransaction: Undo Move Actors
+[2021.07.10-18.35.50:484][632]Cmd: TRANSACTION UNDO
+[2021.07.10-18.35.50:484][632]LogEditorTransaction: Undo Move Actors
+[2021.07.10-18.35.51:105][687]Cmd: TRANSACTION UNDO
+[2021.07.10-18.35.51:105][687]LogEditorTransaction: Undo Rotate Actors
+[2021.07.10-18.36.26:230][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2021.07.10-18.37.21:935][372]MapCheck: New page: Map Check
+[2021.07.10-18.37.21:951][372]LightingResults: New page: Lighting Build - Jul 10, 2021, 8:37:21 AM
+[2021.07.10-18.37.21:959][372]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.10-18.37.21:964][372]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.10-18.37.21:964][372]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.10-18.37.21:965][372]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.10-18.37.21:965][372]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7692
+[2021.07.10-18.38.29:715][372]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.10-18.38.29:715][372]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.10-18.38.29:715][372]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.10-18.38.29:715][372]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.10-18.38.29:715][372]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.10-18.38.29:800][372]LogEditorBuildUtils: Build time 1:07
+[2021.07.10-18.38.29:864][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.07.10-18.38.39:917][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.07.10-18.38.39:981][ 94]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto6EC26DC6D4023ED15ED042E94A4AA660E.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap'
+[2021.07.10-18.38.39:985][ 94]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.096
+[2021.07.10-18.38.39:985][ 94]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2021.07.10-18.39.02:491][160]Job is a success!
+[2021.07.10-18.39.02:814][161]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.177s
+[2021.07.10-18.39.02:814][161]LogVolumetricLightmapImport:      Indirection Texture 128x128x16 = 1.0Mb
+[2021.07.10-18.39.02:814][161]LogVolumetricLightmapImport:      BrickData (all levels) 4.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.07.10-18.39.02:814][161]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.10-18.39.02:814][161]LogVolumetricLightmapImport:          0: 7.5% covering 100.0% of volume
+[2021.07.10-18.39.02:814][161]LogVolumetricLightmapImport:          1: 15.4% covering 3.2% of volume
+[2021.07.10-18.39.02:814][161]LogVolumetricLightmapImport:          2: 77.1% covering 0.3% of volume
+[2021.07.10-18.39.02:814][161]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.10-18.39.02:814][161]LogVolumetricLightmapImport:          MainLevel 			 851 bricks 	 100.0% (Persistent Level)
+[2021.07.10-18.39.03:330][161]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2021.07.10-18.39.03:330][161]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2021.07.10-18.39.03:331][161]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.07.10-18.39.03:331][161]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.07.10-18.39.03:526][161]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2021.07.10-18.39.03:526][161]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X512)
+[2021.07.10-18.39.03:527][161]LogStaticLightingSystem: MainLevel_BuiltData storing lightmap data for 125 meshes in 2 LightmapResourceClusters (62.5 Meshes per cluster).
+[2021.07.10-18.39.03:533][161]Lightmass on DESKTOP-QTCQCQV: 33.2 sec total, 147 ms importing, 24 ms setup, 17.7 sec photons, 15.2 sec processing, 0 ms extra exporting [125/125 mappings]. Threads: 2:47 min total, 1:53 min processing.
+[2021.07.10-18.39.03:567][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.07.10-18.39.03:582][161]LogStaticLightingSystem: Illumination: 1:41 min (449 ms encoding lightmaps, 152 ms encoding shadowmaps)
+[2021.07.10-18.39.03:582][161]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.07.10-18.39.03:582][161]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.07.10-18.39.03:735][161]DumpUnbuiltLightIteractions
+[2021.07.10-18.39.03:735][161]Lights with unbuilt interactions: 0
+[2021.07.10-18.39.03:735][161]
+[2021.07.10-18.39.03:735][161]Primitives with unbuilt interactions: 0
+[2021.07.10-18.39.03:804][161]LogTexture: Display: Building textures: NewReflectionComponentTextureB32D552246FB25CB87591B8470027FCA (BGRA8, 128X128)
+[2021.07.10-18.39.03:816][161]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.10-18.39.03:861][162]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.10-18.39.03:861][162]MapCheck: New page: MainLevel - Jul 10, 2021, 8:39:03 AM
+[2021.07.10-18.39.03:862][162]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.794ms to complete.
+[2021.07.10-18.48.41:650][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.07.10-18.48.41:680][ 16]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto71D3D46FD45C8C8A53F7C14B950764EA3.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap'
+[2021.07.10-18.48.41:682][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.057
+[2021.07.10-18.48.41:682][ 16]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2021.07.10-18.48.56:835][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.07.10-18.48.56:862][641]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevelD2D1E19447F91DC538E3B28369975843.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel.umap'
+[2021.07.10-18.48.56:985][641]LogSavePackage: Moving '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_BuiltData1BF61B914527699F653BD6B5A4558425.tmp' to '../../../../../../Users/olivi/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.07.10-18.48.56:994][641]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.10-18.48.56:994][641]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.07.10-18.48.56:994][641]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.07.10-18.49.17:193][696]LogEditorViewport: Clicking Background
+[2021.07.10-18.49.23:399][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.10-18.49.41:803][393]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/olivi/Documents/GitHub/GamerellaGameJam2021'
+[2021.07.10-18.54.03:733][384]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.07.10-18.54.03:738][384]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.07.10-18.54.10:358][819]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.10-18.54.10:365][819]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.07.10-18.54.10:375][819]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.07.10-19.04.10:160][  2]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.10-19.04.10:175][  2]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.10-19.04.10:175][  2]LogAudioMixer: Display: 1: FrontRight
+[2021.07.10-21.32.03:557][ 42]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.10-21.32.03:703][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.10-21.32.03:703][ 42]LogAudioMixer: Display: 1: FrontRight
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEED0EF9A-4C4A-418D-D3BE-B3904A642FEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=bd29376d4a08c9130203fca9a640d80d%7C91f4de3003af4119bab53a1df35c3cb7%7Cbc104864-89b9-4b67-868c-a1b11a915de6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26365f47eb0 [can pipeline])
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.177.221) port 443 (#1))
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.07.10-21.32.05:521][ 49]LogHttp: Warning: 00000263A8036B00: libcurl info message cache 7 (Closing connection 1)
+[2021.07.10-21.32.05:859][ 50]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEED0EF9A-4C4A-418D-D3BE-B3904A642FEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=bd29376d4a08c9130203fca9a640d80d%7C91f4de3003af4119bab53a1df35c3cb7%7Cbc104864-89b9-4b67-868c-a1b11a915de6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.07.10-21.32.59:130][208]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.07.10-21.32.59:239][208]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.07.10-21.42.41:203][943]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.10-21.42.41:251][943]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.10-21.42.41:252][943]LogAudioMixer: Display: 1: FrontRight
+[2021.07.10-23.50.38:597][948]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.10-23.50.38:634][948]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.10-23.50.38:634][948]LogAudioMixer: Display: 1: FrontRight
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEED0EF9A-4C4A-418D-D3BE-B3904A642FEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=bd29376d4a08c9130203fca9a640d80d%7C91f4de3003af4119bab53a1df35c3cb7%7Cbc104864-89b9-4b67-868c-a1b11a915de6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26365f44790 [can pipeline])
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.165.7.55) port 443 (#2))
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.07.10-23.50.41:250][957]LogHttp: Warning: 000002642B6F0100: libcurl info message cache 7 (Closing connection 2)
+[2021.07.10-23.50.41:584][958]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEED0EF9A-4C4A-418D-D3BE-B3904A642FEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=bd29376d4a08c9130203fca9a640d80d%7C91f4de3003af4119bab53a1df35c3cb7%7Cbc104864-89b9-4b67-868c-a1b11a915de6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.07.10-23.55.22:884][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.07.10-23.55.24:458][664]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.10-23.55.24:591][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.10-23.55.40:868][381]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.10-23.55.40:875][381]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.07.10-23.55.40:886][381]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.07.10-23.55.43:266][660]LogContentBrowser: Attempting asset rename: NewBlueprint -> Item
+[2021.07.10-23.55.43:359][660]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.07.10-23.56.29:493][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
+[2021.07.10-23.58.53:378][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2021.07.10-23.58.53:939][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
