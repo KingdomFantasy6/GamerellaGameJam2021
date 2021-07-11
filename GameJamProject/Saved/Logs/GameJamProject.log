@@ -1685,3 +1685,18 @@ UE4Game <Platform> <Configuration>
 [2021.07.11-22.52.15:848][279]Message dialog closed, result: Ok, title: Message, text: Missing UE4Game binary.
 You may have to build the UE4 project with your IDE. Alternatively, build using UnrealBuildTool with the commandline:
 UE4Game <Platform> <Configuration>
+[2021.07.11-23.01.19:102][620]LogRenderer: Reallocating scene render targets to support 1208x272 Format 10 NumSamples 1 (Frame:29409).
+[2021.07.11-23.01.19:142][621]LogRenderer: Reallocating scene render targets to support 1208x292 Format 10 NumSamples 1 (Frame:29411).
+[2021.07.11-23.01.19:181][622]LogRenderer: Reallocating scene render targets to support 1208x332 Format 10 NumSamples 1 (Frame:29413).
+[2021.07.11-23.01.19:232][623]LogRenderer: Reallocating scene render targets to support 1208x364 Format 10 NumSamples 1 (Frame:29415).
+[2021.07.11-23.01.19:276][624]LogRenderer: Reallocating scene render targets to support 1208x400 Format 10 NumSamples 1 (Frame:29417).
+[2021.07.11-23.01.19:313][625]LogRenderer: Reallocating scene render targets to support 1208x420 Format 10 NumSamples 1 (Frame:29419).
+[2021.07.11-23.01.19:351][626]LogRenderer: Reallocating scene render targets to support 1208x428 Format 10 NumSamples 1 (Frame:29421).
+[2021.07.11-23.01.19:384][627]LogRenderer: Reallocating scene render targets to support 1208x440 Format 10 NumSamples 1 (Frame:29423).
+[2021.07.11-23.01.19:418][628]LogRenderer: Reallocating scene render targets to support 1208x456 Format 10 NumSamples 1 (Frame:29425).
+[2021.07.11-23.01.19:458][629]LogRenderer: Reallocating scene render targets to support 1208x472 Format 10 NumSamples 1 (Frame:29427).
+[2021.07.11-23.01.19:495][630]LogRenderer: Reallocating scene render targets to support 1208x488 Format 10 NumSamples 1 (Frame:29429).
+[2021.07.11-23.01.19:534][631]LogRenderer: Reallocating scene render targets to support 1208x496 Format 10 NumSamples 1 (Frame:29431).
+[2021.07.11-23.01.19:573][632]LogRenderer: Reallocating scene render targets to support 1208x500 Format 10 NumSamples 1 (Frame:29433).
+[2021.07.11-23.01.21:482][856]LogRenderer: Reallocating scene render targets to support 1208x504 Format 10 NumSamples 1 (Frame:29618).
+[2021.07.11-23.01.21:519][857]LogRenderer: Reallocating scene render targets to support 1208x508 Format 10 NumSamples 1 (Frame:29620).
