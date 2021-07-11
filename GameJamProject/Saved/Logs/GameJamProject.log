@@ -2023,3 +2023,299 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.11-04.03.12:940][414]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto60923C99F4A41B49611B80588BFFBF3C6.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap'
 [2021.07.11-04.03.12:946][414]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.193
 [2021.07.11-04.03.12:946][414]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.193
+[2021.07.11-04.08.51:968][978]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.11-04.08.52:044][978]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.11-04.08.52:044][978]LogAudioMixer: Display: 1: FrontRight
+[2021.07.11-04.08.52:044][978]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.11-04.08.52:044][978]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.11-04.08.52:044][978]LogAudioMixer: Display: 4: BackLeft
+[2021.07.11-04.08.52:044][978]LogAudioMixer: Display: 5: BackRight
+[2021.07.11-04.08.52:044][978]LogAudioMixer: Display: 6: SideLeft
+[2021.07.11-04.08.52:044][978]LogAudioMixer: Display: 7: SideRight
+[2021.07.11-07.08.58:569][  1]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.11-07.08.58:619][  1]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.11-07.08.58:619][  1]LogAudioMixer: Display: 1: FrontRight
+[2021.07.11-07.08.58:619][  1]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.11-07.08.58:619][  1]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.11-07.08.58:619][  1]LogAudioMixer: Display: 4: BackLeft
+[2021.07.11-07.08.58:619][  1]LogAudioMixer: Display: 5: BackRight
+[2021.07.11-07.08.58:619][  1]LogAudioMixer: Display: 6: SideLeft
+[2021.07.11-07.08.58:619][  1]LogAudioMixer: Display: 7: SideRight
+[2021.07.11-07.09.03:584][  2]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.07.11-07.09.03:613][  2]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.11-07.09.03:883][  2]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.11-07.09.03:883][  2]LogAudioMixer: Display: 1: FrontRight
+[2021.07.11-07.09.03:883][  2]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.11-07.09.03:884][  2]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.11-07.09.03:884][  2]LogAudioMixer: Display: 4: BackLeft
+[2021.07.11-07.09.03:884][  2]LogAudioMixer: Display: 5: BackRight
+[2021.07.11-07.09.03:884][  2]LogAudioMixer: Display: 6: SideLeft
+[2021.07.11-07.09.03:884][  2]LogAudioMixer: Display: 7: SideRight
+[2021.07.11-07.09.04:558][  3]LogHttp: Warning: 00000212270BD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4C718EEA-4F9B-317A-5841-A0ADFEF86E54%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=7595935641ed8cc54d097e9630b7d914%7Cec265e066e334bf9b8f94efc2bb8ab55%7C6e069bb2-8e72-4782-b608-02f2eb1f121d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.07.11-07.09.04:559][  3]LogHttp: Warning: 00000212270BD600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.07.11-07.09.04:559][  3]LogHttp: Warning: 00000212270BD600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x211e7c73eb0 [can pipeline])
+[2021.07.11-07.09.04:562][  3]LogHttp: Warning: 00000212270BD600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.07.11-07.09.04:562][  3]LogHttp: Warning: 00000212270BD600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.228.136.72) port 443 (#0))
+[2021.07.11-07.09.04:563][  3]LogHttp: Warning: 00000212270BD600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.07.11-07.09.04:563][  3]LogHttp: Warning: 00000212270BD600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.07.11-07.09.04:563][  3]LogHttp: Warning: 00000212270BD600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.07.11-07.09.04:563][  3]LogHttp: Warning: 00000212270BD600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.07.11-07.09.04:569][  3]LogHttp: Warning: 00000212270BD600: libcurl info message cache 7 (Closing connection 0)
+[2021.07.11-07.09.04:596][  4]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4C718EEA-4F9B-317A-5841-A0ADFEF86E54%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=7595935641ed8cc54d097e9630b7d914%7Cec265e066e334bf9b8f94efc2bb8ab55%7C6e069bb2-8e72-4782-b608-02f2eb1f121d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.07.11-13.34.15:811][ 26]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.11-13.34.17:458][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.11-13.34.17:458][ 26]LogAudioMixer: Display: 1: FrontRight
+[2021.07.11-13.34.17:458][ 26]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.11-13.34.17:458][ 26]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.11-13.34.17:458][ 26]LogAudioMixer: Display: 4: BackLeft
+[2021.07.11-13.34.17:458][ 26]LogAudioMixer: Display: 5: BackRight
+[2021.07.11-13.34.17:458][ 26]LogAudioMixer: Display: 6: SideLeft
+[2021.07.11-13.34.17:458][ 26]LogAudioMixer: Display: 7: SideRight
+[2021.07.11-13.34.18:762][ 27]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.11-13.34.19:285][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.11-13.34.19:286][ 27]LogAudioMixer: Display: 1: FrontRight
+[2021.07.11-13.34.19:287][ 27]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.11-13.34.19:287][ 27]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.11-13.34.19:287][ 27]LogAudioMixer: Display: 4: BackLeft
+[2021.07.11-13.34.19:287][ 27]LogAudioMixer: Display: 5: BackRight
+[2021.07.11-13.34.19:287][ 27]LogAudioMixer: Display: 6: SideLeft
+[2021.07.11-13.34.19:287][ 27]LogAudioMixer: Display: 7: SideRight
+[2021.07.11-13.34.19:993][ 28]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.11-13.34.20:114][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.11-13.34.20:114][ 28]LogAudioMixer: Display: 1: FrontRight
+[2021.07.11-13.34.20:114][ 28]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.11-13.34.20:114][ 28]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.11-13.34.20:114][ 28]LogAudioMixer: Display: 4: BackLeft
+[2021.07.11-13.34.20:114][ 28]LogAudioMixer: Display: 5: BackRight
+[2021.07.11-13.34.20:114][ 28]LogAudioMixer: Display: 6: SideLeft
+[2021.07.11-13.34.20:114][ 28]LogAudioMixer: Display: 7: SideRight
+[2021.07.11-13.50.26:019][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube480)
+[2021.07.11-13.50.26:460][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube480)
+[2021.07.11-13.50.37:461][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube483)
+[2021.07.11-13.50.40:614][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube478)
+[2021.07.11-13.50.43:749][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-13.50.53:518][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube480)
+[2021.07.11-13.55.59:525][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube584)
+[2021.07.11-13.56.01:208][835]Cmd: DELETE
+[2021.07.11-13.56.01:208][835]Cmd: ACTOR DELETE
+[2021.07.11-13.56.01:582][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-13.56.01:605][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.07.11-13.56.01:607][835]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2021.07.11-13.56.02:799][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube589)
+[2021.07.11-13.56.03:312][936]Cmd: DELETE
+[2021.07.11-13.56.03:312][936]Cmd: ACTOR DELETE
+[2021.07.11-13.56.03:326][936]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-13.56.03:341][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.11-13.56.03:342][936]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.07.11-13.56.06:314][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube585)
+[2021.07.11-13.56.07:717][197]Cmd: DELETE
+[2021.07.11-13.56.07:717][197]Cmd: ACTOR DELETE
+[2021.07.11-13.56.07:728][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-13.56.07:744][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.11-13.56.07:745][197]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.07.11-13.56.16:434][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube582)
+[2021.07.11-13.56.47:060][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube587)
+[2021.07.11-13.56.47:982][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube586)
+[2021.07.11-13.57.30:386][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube583)
+[2021.07.11-13.58.00:309][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-13.58.07:353][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube566)
+[2021.07.11-13.58.08:602][413]Cmd: DELETE
+[2021.07.11-13.58.08:602][413]Cmd: ACTOR DELETE
+[2021.07.11-13.58.08:613][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-13.58.08:630][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.11-13.58.08:632][413]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.07.11-13.58.09:904][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube567)
+[2021.07.11-13.58.11:050][557]Cmd: DELETE
+[2021.07.11-13.58.11:050][557]Cmd: ACTOR DELETE
+[2021.07.11-13.58.11:062][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-13.58.11:077][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.11-13.58.11:078][557]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.07.11-13.58.15:733][837]Cmd: TRANSACTION UNDO
+[2021.07.11-13.58.15:733][837]LogEditorTransaction: Undo Delete Actors
+[2021.07.11-13.59.02:159][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube570)
+[2021.07.11-13.59.04:919][765]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.11-13.59.12:437][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.00.07:770][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube564)
+[2021.07.11-14.00.19:865][247]Cmd: TRANSACTION UNDO
+[2021.07.11-14.00.19:865][247]LogEditorTransaction: Undo Move Actors
+[2021.07.11-14.01.47:488][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube602)
+[2021.07.11-14.01.52:176][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.02.59:698][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.07.11-14.02.59:926][295]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto70C39632945E088247062C48800E9B029.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap'
+[2021.07.11-14.02.59:952][295]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.288
+[2021.07.11-14.02.59:952][295]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.288
+[2021.07.11-14.03.17:206][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube592)
+[2021.07.11-14.04.03:709][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube609)
+[2021.07.11-14.04.06:987][149]Cmd: DELETE
+[2021.07.11-14.04.06:987][149]Cmd: ACTOR DELETE
+[2021.07.11-14.04.06:999][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.04.06:999][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.04.07:017][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.07.11-14.04.07:019][149]LogEditorActor: Deleted 2 Actors (0.031 secs)
+[2021.07.11-14.04.08:045][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube613)
+[2021.07.11-14.04.20:095][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube613)
+[2021.07.11-14.04.21:665][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.11-14.04.34:575][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube607)
+[2021.07.11-14.04.41:380][196]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube606)
+[2021.07.11-14.04.42:688][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube608)
+[2021.07.11-14.04.43:618][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube607)
+[2021.07.11-14.05.43:425][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube613)
+[2021.07.11-14.05.44:876][957]Cmd: DELETE
+[2021.07.11-14.05.44:876][957]Cmd: ACTOR DELETE
+[2021.07.11-14.05.44:890][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.05.44:928][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.07.11-14.05.44:929][957]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2021.07.11-14.05.47:319][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube619)
+[2021.07.11-14.06.10:016][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube614)
+[2021.07.11-14.06.14:652][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.06.42:940][417]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.07.11-14.06.44:023][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.06.44:665][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube615)
+[2021.07.11-14.08.15:522][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube594)
+[2021.07.11-14.08.23:676][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.08.25:610][544]Cmd: TRANSACTION UNDO
+[2021.07.11-14.08.25:616][544]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.11-14.08.44:528][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube624)
+[2021.07.11-14.08.56:369][361]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube621)
+[2021.07.11-14.08.57:736][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.08.59:852][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube624)
+[2021.07.11-14.09.33:686][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube579)
+[2021.07.11-14.11.07:330][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube640)
+[2021.07.11-14.11.08:310][217]Cmd: DELETE
+[2021.07.11-14.11.08:310][217]Cmd: ACTOR DELETE
+[2021.07.11-14.11.08:322][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.11.08:372][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.07.11-14.11.08:375][217]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.07.11-14.11.13:947][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube639)
+[2021.07.11-14.11.14:911][608]Cmd: DELETE
+[2021.07.11-14.11.14:911][608]Cmd: ACTOR DELETE
+[2021.07.11-14.11.14:922][608]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.11.14:942][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.11-14.11.14:943][608]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.07.11-14.11.18:248][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube635)
+[2021.07.11-14.11.35:320][819]Cmd: TRANSACTION UNDO
+[2021.07.11-14.11.35:320][819]LogEditorTransaction: Undo Rotate Actors
+[2021.07.11-14.11.36:108][850]Cmd: TRANSACTION UNDO
+[2021.07.11-14.11.36:108][850]LogEditorTransaction: Undo Move Actors
+[2021.07.11-14.12.19:175][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube648)
+[2021.07.11-14.13.00:029][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube650)
+[2021.07.11-14.13.20:422][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.14.04:837][747]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube635)
+[2021.07.11-14.14.05:857][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.14.06:869][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube635)
+[2021.07.11-14.15.18:450][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube656)
+[2021.07.11-14.15.19:613][208]Cmd: DELETE
+[2021.07.11-14.15.19:613][208]Cmd: ACTOR DELETE
+[2021.07.11-14.15.19:626][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.15.19:647][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.07.11-14.15.19:650][208]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.07.11-14.15.22:123][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube660)
+[2021.07.11-14.15.36:840][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube655)
+[2021.07.11-14.15.52:144][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube653)
+[2021.07.11-14.15.53:478][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube652)
+[2021.07.11-14.15.56:586][398]Cmd: DELETE
+[2021.07.11-14.15.56:586][398]Cmd: ACTOR DELETE
+[2021.07.11-14.15.56:601][398]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.15.56:601][398]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.15.56:617][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.11-14.15.56:619][398]LogEditorActor: Deleted 2 Actors (0.033 secs)
+[2021.07.11-14.16.06:655][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube660)
+[2021.07.11-14.16.42:391][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube600)
+[2021.07.11-14.16.44:437][257]Cmd: DELETE
+[2021.07.11-14.16.44:437][257]Cmd: ACTOR DELETE
+[2021.07.11-14.16.44:449][257]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.16.44:468][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.11-14.16.44:469][257]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.07.11-14.16.45:559][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube603)
+[2021.07.11-14.16.50:384][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.16.56:048][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube603)
+[2021.07.11-14.17.57:290][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.07.11-14.17.58:461][168]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto8E1D357634559AC9BFB809DA904FEA83C.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap'
+[2021.07.11-14.17.58:467][168]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 1.267
+[2021.07.11-14.17.58:467][168]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.267
+[2021.07.11-14.18.08:346][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube602)
+[2021.07.11-14.18.38:267][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube661)
+[2021.07.11-14.18.52:099][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube653)
+[2021.07.11-14.18.58:331][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube662)
+[2021.07.11-14.19.02:399][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.19.10:429][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.19.11:217][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube594)
+[2021.07.11-14.19.29:876][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube666)
+[2021.07.11-14.19.35:511][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.20.38:241][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube663)
+[2021.07.11-14.20.40:670][797]Cmd: DELETE
+[2021.07.11-14.20.40:670][797]Cmd: ACTOR DELETE
+[2021.07.11-14.20.40:682][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.20.40:705][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.11-14.20.40:707][797]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.07.11-14.20.41:480][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube661)
+[2021.07.11-14.20.42:160][882]Cmd: DELETE
+[2021.07.11-14.20.42:160][882]Cmd: ACTOR DELETE
+[2021.07.11-14.20.42:173][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.20.42:194][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.11-14.20.42:194][882]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.07.11-14.20.43:597][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube662)
+[2021.07.11-14.20.47:408][193]Cmd: DELETE
+[2021.07.11-14.20.47:408][193]Cmd: ACTOR DELETE
+[2021.07.11-14.20.47:427][193]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.20.47:444][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.11-14.20.47:446][193]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.07.11-14.20.53:519][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube615)
+[2021.07.11-14.21.53:198][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube661)
+[2021.07.11-14.21.54:313][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.22.04:483][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube651)
+[2021.07.11-14.22.43:768][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube600)
+[2021.07.11-14.23.05:845][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube676)
+[2021.07.11-14.23.06:895][513]Cmd: DELETE
+[2021.07.11-14.23.06:895][513]Cmd: ACTOR DELETE
+[2021.07.11-14.23.06:907][513]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.23.06:934][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.11-14.23.06:937][513]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.07.11-14.23.08:242][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube673)
+[2021.07.11-14.23.36:761][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube675)
+[2021.07.11-14.24.02:338][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube600)
+[2021.07.11-14.24.57:461][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube678)
+[2021.07.11-14.25.29:624][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube686)
+[2021.07.11-14.25.46:648][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube690)
+[2021.07.11-14.28.20:760][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.07.11-14.28.20:989][825]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto967E8AADF486D783092D8D1A37AC2C16F.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto9.umap'
+[2021.07.11-14.28.20:993][825]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.264
+[2021.07.11-14.28.20:993][825]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.264
+[2021.07.11-14.30.58:245][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube632)
+[2021.07.11-14.31.06:932][624]Cmd: TRANSACTION UNDO
+[2021.07.11-14.31.06:932][624]LogEditorTransaction: Undo Move Actors
+[2021.07.11-14.38.21:228][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.11-14.38.21:466][368]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto084610DB4408DBDC2A3E096B9D09F73DD.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto0.umap'
+[2021.07.11-14.38.21:469][368]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.295
+[2021.07.11-14.38.21:470][368]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.295
+[2021.07.11-14.42.39:254][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube692)
+[2021.07.11-14.43.02:139][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube695)
+[2021.07.11-14.46.12:148][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube707)
+[2021.07.11-14.46.13:211][590]Cmd: DELETE
+[2021.07.11-14.46.13:211][590]Cmd: ACTOR DELETE
+[2021.07.11-14.46.13:225][590]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.46.13:247][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.07.11-14.46.13:248][590]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.07.11-14.46.18:804][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube703)
+[2021.07.11-14.48.16:461][288]Cmd: TRANSACTION UNDO
+[2021.07.11-14.48.16:461][288]LogEditorTransaction: Undo Move Actors
+[2021.07.11-14.48.20:803][529]Cmd: TRANSACTION UNDO
+[2021.07.11-14.48.20:803][529]LogEditorTransaction: Undo Move Actors
+[2021.07.11-14.48.47:349][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.48.48:913][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube712)
+[2021.07.11-14.48.49:846][248]Cmd: DELETE
+[2021.07.11-14.48.49:846][248]Cmd: ACTOR DELETE
+[2021.07.11-14.48.49:860][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.11-14.48.49:879][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.07.11-14.48.49:880][248]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.07.11-14.48.53:419][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube711)
+[2021.07.11-14.49.10:091][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.11-14.49.29:355][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube630)
+[2021.07.11-14.49.35:106][953]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube629)
+[2021.07.11-14.49.36:326][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube630)
+[2021.07.11-14.49.54:205][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube561)
+[2021.07.11-14.50.07:041][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube579)
+[2021.07.11-14.51.52:539][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.07.11-14.51.52:751][631]LogSavePackage: Moving 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/MainLevel_Auto1F7ADF54E4FB300C8CF1FC2BB23A15CFC.tmp' to 'C:/Users/CHVRSH/Documents/GitHub/GamerellaGameJam2021/GameJamProject/Saved/Autosaves/Game/Levels/MainLevel_Auto1.umap'
+[2021.07.11-14.51.52:756][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.254
+[2021.07.11-14.51.52:756][631]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.254
