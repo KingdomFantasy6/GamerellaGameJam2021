@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{66F820E1-86E3-47DE-9056-53CDB53A4E88}" SchemaVersion="103">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{66F820E1-86E3-47DE-9056-53CDB53A4E88}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{66F820E1-86E3-47DE-9056-53CDB53A4E88}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="menumx" ID="{7C13BCDA-D202-40F3-B822-C0F90C3CD01E}">
+					<ChildrenList>
+						<Action Name="" ID="{A7C68C17-D288-44A5-BC5E-732A55477421}" ShortID="564564413">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MenuMx_Final" ID="{E6143457-3D08-4680-B6EE-B55CDBB55647}" WorkUnitID="{B8C09B03-21A7-4C55-89F8-C03C312707B2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="gameplaymx" ID="{C2E7F822-96D1-42A3-A81D-1E4D7FCA0197}">
+					<ChildrenList>
+						<Action Name="" ID="{E4D28AAA-8A1F-4B30-BC93-1D68F68A8018}" ShortID="362513270">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="GameplayMX_full" ID="{C068BE61-F3ED-4029-85BF-EE3E5B5F29BE}" WorkUnitID="{B8C09B03-21A7-4C55-89F8-C03C312707B2}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	473201058	gameplaymx			\Default Work Unit\gameplaymx	
+	575656447	menumx			\Default Work Unit\menumx	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	98366922	GameplayMX_full	C:\Users\pocke\Documents\GitHub\GamerellaGameJam2021\GameJamProject\GameJamProject_WwiseProject\.cache\Mac\SFX\GameplayMX_full_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\GameplayMX_full\GameplayMX_full		17404864
+	1067688008	MenuMx_Final	C:\Users\pocke\Documents\GitHub\GamerellaGameJam2021\GameJamProject\GameJamProject_WwiseProject\.cache\Mac\SFX\MenuMx_Final_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\MenuMx_Final\MenuMx_Final		10525264
+
